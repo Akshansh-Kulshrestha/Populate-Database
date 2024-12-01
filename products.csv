@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,Stock,Brand,Rating
+1,Understand Gadget,Books,320.71,466,BrandB,2.5
+2,Less Tool,Toys,1494.66,98,BrandD,2
+3,Hold Gadget,Clothing,764.12,386,BrandD,2.5
+4,Part Gadget,Books,1692.37,235,BrandB,2
+5,Sport Item,Clothing,1262.68,41,BrandC,3.5
+6,School Item,Home Appliances,1044.04,486,BrandA,4.6
+7,Huge Item,Electronics,1740.06,305,BrandD,2.8
+8,They Tool,Books,601.54,130,BrandD,3.7
+9,Alone Tool,Home Appliances,1697.23,79,BrandD,1.9
+10,Career Item,Clothing,1428.9,348,BrandD,2.3
+11,Month Gadget,Toys,897.15,115,BrandB,4.3
+12,Policy Tool,Books,666.87,500,BrandA,2.3
+13,Charge Gadget,Home Appliances,1726.87,54,BrandA,1.2
+14,Seek Gadget,Clothing,1621.32,396,BrandB,4.5
+15,Image Item,Clothing,1019.18,162,BrandB,3.8
+16,Effect Tool,Home Appliances,692.87,73,BrandC,3.6
+17,In Tool,Clothing,383.82,20,BrandA,3.2
+18,Bank Item,Electronics,577.88,109,BrandC,4.1
+19,Building Item,Electronics,885.79,54,BrandB,2.5
+20,Seat Gadget,Home Appliances,647.63,126,BrandC,3
+21,Event Item,Toys,1346.32,382,BrandD,1.9
+22,Check Item,Books,164.77,304,BrandD,2.3
+23,Society Tool,Toys,96.99,13,BrandB,2.7
+24,Care Item,Home Appliances,1493.72,333,BrandD,1.3
+25,Say Tool,Clothing,1581.39,55,BrandC,1.3
+26,Subject Tool,Electronics,1787.43,456,BrandB,4
+27,Economy Tool,Clothing,354.29,131,BrandC,2
+28,Choice Gadget,Electronics,1858.19,37,BrandD,2
+29,Century Gadget,Books,1558.15,18,BrandC,3.1
+30,Card Gadget,Home Appliances,1681.22,441,BrandA,3.6
+31,Study Item,Electronics,1750.95,188,BrandB,1.9
+32,Pull Gadget,Toys,1067.06,236,BrandD,2.5
+33,Several Tool,Home Appliances,412.18,193,BrandC,2.4
+34,Far Item,Electronics,81.47,223,BrandD,3.2
+35,Happen Tool,Toys,1316.01,455,BrandA,4.4
+36,Check Tool,Electronics,263.65,321,BrandB,4.8
+37,Loss Gadget,Clothing,1669.2,267,BrandC,4.7
+38,Any Item,Toys,1456.49,160,BrandB,2.8
+39,Election Tool,Toys,885.88,21,BrandC,1.2
+40,Daughter Item,Electronics,681.32,164,BrandB,1.3
+41,Prove Item,Electronics,1464.22,14,BrandB,2.8
+42,One Tool,Electronics,1275.01,400,BrandD,1.8
+43,Keep Item,Toys,1636.35,275,BrandD,2.7
+44,Civil Tool,Clothing,475.04,430,BrandC,4.9
+45,Board Gadget,Electronics,1650.97,61,BrandA,1.7
+46,Chance Gadget,Electronics,331.36,223,BrandB,2.5
+47,Life Gadget,Toys,507.93,134,BrandA,3.4
+48,Newspaper Gadget,Electronics,313.17,385,BrandB,2.1
+49,Wide Tool,Toys,1943.63,412,BrandC,3.4
+50,Among Item,Electronics,293.39,236,BrandA,1.3
+51,Name Item,Books,728.9,1,BrandA,1.2
+52,Lawyer Tool,Electronics,167.26,281,BrandB,2.6
+53,Rather Gadget,Electronics,1740.56,78,BrandB,3.6
+54,Quickly Item,Toys,285.37,200,BrandC,3.5
+55,Talk Item,Electronics,1516.82,397,BrandC,3
+56,Little Item,Toys,1122.97,286,BrandC,1.7
+57,Others Item,Clothing,227.15,232,BrandD,4.3
+58,After Tool,Home Appliances,1119.97,390,BrandD,1.3
+59,Cause Item,Clothing,1092.88,422,BrandA,2.6
+60,Second Tool,Home Appliances,1670.36,20,BrandB,4.2
+61,Throw Tool,Toys,1227.93,120,BrandD,4.5
+62,South Tool,Clothing,217.43,29,BrandD,1.1
+63,Home Tool,Home Appliances,390.96,314,BrandA,3.3
+64,Whatever Item,Electronics,352.05,420,BrandA,1.8
+65,Ask Tool,Clothing,520.67,402,BrandB,3.9
+66,Race Gadget,Books,1417.66,359,BrandA,4.9
+67,Leg Gadget,Toys,751.83,88,BrandA,4.8
+68,Again Tool,Electronics,314.33,255,BrandC,3.1
+69,Benefit Gadget,Clothing,404.16,247,BrandC,3
+70,Huge Tool,Home Appliances,1143.19,249,BrandB,1.2
+71,Seat Tool,Clothing,60.54,58,BrandC,3.1
+72,Customer Tool,Electronics,581.47,432,BrandC,4.6
+73,Dinner Tool,Books,1100.14,30,BrandD,1.9
+74,Stock Item,Books,1270.52,179,BrandD,2.5
+75,Identify Tool,Toys,1030.19,279,BrandD,1.6
+76,Focus Tool,Electronics,1858.47,81,BrandD,1.8
+77,Again Tool,Clothing,1518.96,138,BrandA,1.5
+78,Couple Tool,Home Appliances,1653.61,441,BrandB,1.7
+79,Finish Gadget,Toys,1683.11,479,BrandA,3.9
+80,Seek Tool,Toys,1733.97,10,BrandB,4.2
+81,Much Item,Clothing,146.28,407,BrandC,3.2
+82,Risk Gadget,Home Appliances,1167.34,351,BrandC,4.1
+83,Pass Item,Toys,448.8,203,BrandC,4.7
+84,Wear Item,Home Appliances,137.93,74,BrandB,4.5
+85,Read Item,Clothing,359.62,216,BrandC,4.5
+86,Court Tool,Home Appliances,801.52,491,BrandA,4
+87,Exactly Item,Home Appliances,1652.31,427,BrandB,1.8
+88,My Gadget,Clothing,1179.61,275,BrandC,2.5
+89,Around Gadget,Home Appliances,993.85,380,BrandB,3.9
+90,Growth Item,Toys,766.49,216,BrandB,3.3
+91,Fund Item,Electronics,1545.64,141,BrandC,1.7
+92,International Item,Home Appliances,1236.09,410,BrandD,1.7
+93,Rule Gadget,Electronics,1677.13,436,BrandB,4.4
+94,Top Gadget,Electronics,937.58,276,BrandB,4.4
+95,Better Item,Books,1721.99,129,BrandC,2.9
+96,Wife Item,Home Appliances,1699.65,41,BrandA,1.6
+97,System Tool,Toys,1464.48,381,BrandA,2.3
+98,Beautiful Tool,Electronics,346.99,499,BrandC,2.1
+99,Spring Item,Clothing,1830.88,351,BrandA,1.3
+100,Some Item,Books,1990.39,434,BrandD,2.6
+101,Study Item,Toys,746.42,98,BrandA,2.6
+102,Send Item,Books,660.03,318,BrandD,3
+103,Without Item,Books,810.23,309,BrandD,3
+104,Media Gadget,Toys,581.45,232,BrandC,1.4
+105,Ball Tool,Electronics,441.07,15,BrandD,4.8
+106,Point Tool,Toys,443.45,3,BrandD,1.9
+107,Miss Item,Electronics,723.1,474,BrandA,2.1
+108,Drop Tool,Electronics,1007.23,341,BrandD,3.9
+109,Lawyer Gadget,Books,1386.15,265,BrandD,4.9
+110,Vote Tool,Electronics,171.92,461,BrandB,1.1
+111,Agreement Tool,Toys,984.37,286,BrandC,2.3
+112,Wrong Tool,Books,1214.83,235,BrandC,1.7
+113,Physical Tool,Home Appliances,151.86,36,BrandC,3.8
+114,Plan Item,Toys,1974.95,269,BrandC,2.9
+115,Mother Gadget,Books,1286.43,312,BrandD,1.5
+116,Sister Tool,Electronics,758.4,331,BrandC,4.8
+117,All Item,Electronics,606.36,269,BrandC,1.7
+118,Onto Item,Home Appliances,715.95,362,BrandC,2.5
+119,Early Gadget,Books,582.07,80,BrandB,4.1
+120,Ability Gadget,Clothing,1692.3,420,BrandD,2.3
+121,Assume Item,Toys,1351.63,41,BrandD,2
+122,Trip Item,Toys,1003.13,20,BrandA,1.6
+123,Born Tool,Electronics,579.2,167,BrandB,1
+124,Sit Item,Books,1036.87,451,BrandA,1.7
+125,Recognize Item,Books,1415.03,88,BrandA,3.5
+126,Hundred Item,Home Appliances,1074.52,10,BrandD,4.4
+127,Stay Gadget,Home Appliances,809.23,44,BrandD,3.3
+128,Green Tool,Clothing,1579.13,371,BrandA,2.3
+129,Within Tool,Electronics,1200.72,273,BrandD,4.8
+130,Job Item,Toys,1437.69,329,BrandD,2
+131,Future Tool,Books,89.61,388,BrandB,4.6
+132,Table Gadget,Books,648.84,268,BrandA,2.7
+133,Moment Tool,Clothing,447.07,257,BrandC,3.1
+134,Wait Gadget,Clothing,1408.23,341,BrandB,2.9
+135,Enter Gadget,Books,791.38,73,BrandA,3.8
+136,Structure Gadget,Home Appliances,1680.61,248,BrandD,1.6
+137,Owner Item,Home Appliances,1181.24,114,BrandA,4.6
+138,When Item,Home Appliances,1111.2,478,BrandA,1.6
+139,Body Gadget,Toys,571.7,354,BrandB,2
+140,Skill Tool,Toys,301.7,140,BrandC,4.5
+141,Hold Gadget,Electronics,1958.45,141,BrandB,1.3
+142,Analysis Gadget,Clothing,1726.79,225,BrandB,1.7
+143,Enjoy Tool,Electronics,1460.93,433,BrandA,2.7
+144,By Tool,Electronics,1665.84,375,BrandB,4.9
+145,Nature Tool,Electronics,1846.17,101,BrandA,2.1
+146,More Tool,Home Appliances,239.13,61,BrandD,1.1
+147,And Tool,Books,612.87,398,BrandC,2.6
+148,Care Item,Home Appliances,1518.19,98,BrandB,2.3
+149,Take Item,Home Appliances,751.7,262,BrandA,3.3
+150,Two Item,Home Appliances,891.82,73,BrandB,3
+151,Stuff Tool,Toys,864.21,207,BrandC,1.6
+152,Enough Item,Clothing,913.01,283,BrandD,3.9
+153,Above Item,Toys,1302.14,277,BrandB,2.9
+154,Soon Tool,Clothing,442.59,97,BrandC,1.1
+155,Else Gadget,Books,205.15,7,BrandB,4.1
+156,Walk Item,Toys,1612.39,20,BrandC,1.2
+157,Guy Gadget,Clothing,230.85,351,BrandA,1.2
+158,Situation Tool,Electronics,60.27,307,BrandD,4.5
+159,Name Gadget,Toys,1218.15,285,BrandC,2.6
+160,Father Item,Home Appliances,1925.63,322,BrandB,5
+161,Return Gadget,Electronics,794.58,369,BrandD,2.2
+162,Western Item,Home Appliances,1625.49,328,BrandB,3.8
+163,Itself Gadget,Books,941.68,309,BrandD,1
+164,Brother Tool,Toys,1775.06,37,BrandC,4.3
+165,Late Item,Books,367.67,173,BrandC,2.9
+166,Everything Item,Home Appliances,1034.46,192,BrandC,1.2
+167,Cause Item,Toys,884.23,464,BrandA,4.9
+168,Still Tool,Clothing,858.35,119,BrandD,2.3
+169,Institution Tool,Clothing,1455.41,68,BrandA,1.6
+170,Discuss Item,Clothing,890.66,371,BrandA,4.4
+171,Behavior Gadget,Toys,342.17,331,BrandA,1.9
+172,Best Item,Clothing,580.13,316,BrandB,3
+173,Mind Gadget,Home Appliances,709.81,240,BrandA,4.7
+174,Source Gadget,Books,318.48,99,BrandC,1.5
+175,Say Gadget,Clothing,1993.77,407,BrandA,3.2
+176,Within Tool,Books,1204.37,201,BrandC,2.5
+177,Item Gadget,Electronics,454.11,380,BrandB,2.3
+178,Write Item,Home Appliances,1635.17,359,BrandB,1.3
+179,Garden Gadget,Toys,1183.08,324,BrandC,1.4
+180,Common Gadget,Toys,1834.89,345,BrandA,3.2
+181,South Tool,Books,1477.47,285,BrandA,4.8
+182,Move Item,Electronics,278.6,282,BrandD,3.8
+183,Letter Gadget,Books,519.51,461,BrandD,1.8
+184,Reveal Tool,Home Appliances,1050.01,94,BrandD,2.7
+185,Always Item,Toys,461.53,439,BrandB,3.1
+186,Whose Item,Books,1912.79,394,BrandD,3.2
+187,Drug Tool,Clothing,1387.33,326,BrandC,4.3
+188,Order Item,Clothing,431.18,88,BrandC,1.2
+189,Social Tool,Clothing,1308.81,50,BrandB,4.7
+190,Act Tool,Toys,1671.77,413,BrandD,1.9
+191,Evidence Item,Books,1380.71,358,BrandC,2
+192,See Tool,Electronics,1266.29,245,BrandB,4.2
+193,Money Item,Clothing,1594.42,289,BrandD,2.1
+194,Continue Tool,Clothing,320.04,95,BrandC,1
+195,Ever Tool,Electronics,732.23,232,BrandD,3.9
+196,Myself Gadget,Home Appliances,782.85,495,BrandA,2.4
+197,Treatment Tool,Toys,949.41,106,BrandC,4
+198,Let Item,Electronics,1380.24,184,BrandA,2.6
+199,Hot Gadget,Books,1499.78,412,BrandC,1
+200,Court Item,Toys,1890.68,291,BrandC,1.9
+201,Will Tool,Clothing,1403.72,494,BrandB,5
+202,Something Gadget,Toys,1399.39,159,BrandB,1.7
+203,Imagine Item,Books,1289.79,382,BrandA,3.6
+204,Professor Gadget,Electronics,929.13,400,BrandB,4.7
+205,Can Item,Clothing,761.42,98,BrandB,2.5
+206,Ago Tool,Books,52.2,405,BrandC,1.9
+207,Word Tool,Toys,1143.1,25,BrandD,1.2
+208,Learn Tool,Books,1114.52,248,BrandB,1.2
+209,Practice Gadget,Clothing,1004.39,393,BrandB,2.2
+210,Talk Item,Toys,1380.06,239,BrandC,3.1
+211,Run Tool,Clothing,1651.51,194,BrandD,4.1
+212,Them Gadget,Clothing,284.61,402,BrandC,2.3
+213,Generation Gadget,Books,872.12,367,BrandA,3.5
+214,West Gadget,Toys,573.25,327,BrandC,4.7
+215,Hot Gadget,Books,1088.28,134,BrandB,3.9
+216,Half Gadget,Home Appliances,1157.29,439,BrandC,4
+217,Capital Gadget,Toys,440.61,105,BrandC,1.1
+218,Radio Gadget,Clothing,1120.68,379,BrandA,2.1
+219,Laugh Tool,Home Appliances,762.89,313,BrandB,5
+220,Appear Gadget,Books,1818.39,139,BrandB,4.5
+221,Teacher Tool,Electronics,1162.9,254,BrandC,2.8
+222,Something Item,Books,644.67,491,BrandC,1.3
+223,Describe Item,Electronics,148.16,142,BrandD,3.7
+224,It Gadget,Books,1220.17,178,BrandA,2.6
+225,Happen Item,Electronics,633.91,39,BrandD,2.1
+226,Son Tool,Books,1439.07,429,BrandB,4.7
+227,Pretty Gadget,Books,976.4,142,BrandC,1.4
+228,Player Item,Books,331.2,175,BrandB,2.7
+229,Have Item,Toys,138.97,45,BrandA,4.4
+230,Policy Gadget,Home Appliances,295.6,78,BrandD,1.2
+231,Fall Item,Toys,1321.3,270,BrandA,3.3
+232,Environmental Tool,Clothing,804.56,94,BrandA,1.2
+233,Responsibility Gadget,Home Appliances,1863.53,407,BrandA,4.7
+234,Of Item,Electronics,945.72,445,BrandC,4.6
+235,From Tool,Toys,1509.41,411,BrandB,3.4
+236,Adult Tool,Clothing,881.33,489,BrandB,1.5
+237,South Item,Electronics,19.93,175,BrandC,2.9
+238,People Tool,Clothing,1015.94,331,BrandB,3.6
+239,Story Tool,Clothing,1590.9,171,BrandC,2.3
+240,Author Tool,Home Appliances,1054.74,153,BrandD,4.8
+241,Campaign Gadget,Books,1502.66,476,BrandD,3.5
+242,Throughout Tool,Toys,1145.22,417,BrandA,1
+243,Necessary Tool,Clothing,1436.43,12,BrandA,2.7
+244,Time Item,Home Appliances,448.83,277,BrandC,2.2
+245,Focus Item,Books,430.18,290,BrandC,1.8
+246,Worker Tool,Clothing,239.93,172,BrandC,1.1
+247,She Gadget,Clothing,598.62,354,BrandA,2.4
+248,Decide Gadget,Electronics,1896.58,235,BrandD,4.5
+249,Fact Item,Home Appliances,803.94,330,BrandC,2.5
+250,Suffer Item,Clothing,1646.55,318,BrandC,2.8
+251,Long Item,Home Appliances,1022.76,200,BrandC,3.8
+252,Deep Gadget,Books,935.08,459,BrandD,3.4
+253,Meet Gadget,Home Appliances,1055.33,242,BrandB,1.4
+254,Husband Tool,Clothing,1127.35,126,BrandB,4.3
+255,School Gadget,Clothing,496.77,317,BrandA,4
+256,Husband Item,Toys,805.92,53,BrandD,4.1
+257,Black Tool,Home Appliances,225.17,21,BrandA,2.9
+258,Gas Gadget,Clothing,1136.69,263,BrandB,3.5
+259,Doctor Gadget,Clothing,512.13,247,BrandC,4.5
+260,Change Tool,Home Appliances,891.29,309,BrandD,3.5
+261,Need Item,Toys,1007.25,397,BrandC,3.1
+262,Dream Tool,Books,924.92,317,BrandA,3.6
+263,Picture Item,Toys,1282.12,227,BrandD,3.7
+264,Try Tool,Toys,1707.78,466,BrandA,3.6
+265,Themselves Item,Home Appliances,212.77,283,BrandC,1.3
+266,Choose Item,Toys,554.68,194,BrandC,4.5
+267,Mention Tool,Books,60.5,124,BrandD,1.8
+268,Fact Item,Electronics,840.66,168,BrandC,4.9
+269,Bank Item,Toys,1144.17,447,BrandD,2
+270,Perform Tool,Toys,1647.7,458,BrandB,3.1
+271,Adult Tool,Books,1898.29,320,BrandA,3.4
+272,Pretty Tool,Home Appliances,942.06,358,BrandB,1.1
+273,We Tool,Clothing,1966.94,52,BrandD,3.6
+274,Security Tool,Books,944.81,237,BrandC,1.6
+275,Stuff Tool,Electronics,1933.08,220,BrandA,4.5
+276,Student Tool,Clothing,1570.13,41,BrandA,3.7
+277,This Tool,Home Appliances,1675.21,133,BrandD,2.4
+278,Management Item,Toys,1260.8,208,BrandA,4.5
+279,Economy Tool,Toys,353.19,173,BrandD,2.8
+280,Human Item,Clothing,923.27,197,BrandA,3.2
+281,Spring Gadget,Clothing,22.79,199,BrandB,3.2
+282,Prevent Tool,Electronics,1676.32,268,BrandD,1.3
+283,Common Item,Home Appliances,1899.01,124,BrandD,2.1
+284,Heart Gadget,Books,1357.2,354,BrandB,1.6
+285,Light Gadget,Toys,529.89,353,BrandA,3.8
+286,Lead Gadget,Books,1038.64,174,BrandB,4.3
+287,Responsibility Gadget,Home Appliances,1332.51,241,BrandC,2.8
+288,Draw Item,Home Appliances,586.69,43,BrandA,4.3
+289,Spring Item,Home Appliances,83.95,135,BrandD,4.7
+290,Say Gadget,Home Appliances,965,411,BrandB,4.1
+291,Exist Gadget,Toys,711.83,319,BrandB,3.6
+292,Home Gadget,Toys,1313.52,446,BrandD,2.7
+293,Cost Tool,Home Appliances,45.64,326,BrandC,2.6
+294,Measure Tool,Clothing,237.32,479,BrandA,1.8
+295,Figure Tool,Books,518.8,172,BrandD,3.2
+296,Travel Tool,Toys,1986.22,111,BrandB,1.3
+297,Easy Tool,Books,1842.86,363,BrandC,4
+298,Analysis Gadget,Books,1857.63,170,BrandA,3.6
+299,Still Gadget,Home Appliances,1014.22,407,BrandA,4.2
+300,Why Tool,Electronics,1682.8,189,BrandB,3.7
+301,Ready Tool,Toys,1717.84,154,BrandB,3.5
+302,Seat Gadget,Toys,1950.95,449,BrandB,4.3
+303,Little Tool,Clothing,844.73,284,BrandC,2.8
+304,Article Item,Toys,1939.54,78,BrandD,4.5
+305,Model Gadget,Toys,245.16,83,BrandA,2.9
+306,Blue Gadget,Home Appliances,1346.05,156,BrandB,1.9
+307,Message Gadget,Home Appliances,1356.87,317,BrandB,4.7
+308,Official Gadget,Electronics,1415.08,469,BrandB,3.7
+309,Culture Gadget,Home Appliances,1984.42,193,BrandC,3.6
+310,Approach Tool,Books,745.66,47,BrandD,3.4
+311,Sing Tool,Clothing,902.08,85,BrandA,3.5
+312,Rule Gadget,Toys,537.99,58,BrandC,4.9
+313,Ball Gadget,Toys,938.32,308,BrandD,3
+314,Single Item,Toys,442.81,187,BrandD,3.6
+315,None Tool,Home Appliances,1507.93,443,BrandB,3.1
+316,Less Item,Electronics,412.14,303,BrandC,3.7
+317,Statement Item,Clothing,1139.93,500,BrandB,4.2
+318,Sense Tool,Books,1213.22,429,BrandB,1.7
+319,Matter Gadget,Toys,1264.8,411,BrandC,4.5
+320,Pattern Tool,Toys,760.15,100,BrandA,3.7
+321,Career Gadget,Electronics,971.98,209,BrandD,2.4
+322,Ground Item,Books,78.89,38,BrandD,4.7
+323,Speak Item,Books,630.85,97,BrandD,4.7
+324,Respond Tool,Books,46.17,329,BrandA,1.8
+325,Feel Item,Clothing,1510.02,411,BrandC,3.5
+326,No Item,Toys,1321.24,399,BrandC,4.8
+327,Especially Tool,Toys,48.71,82,BrandD,1.5
+328,International Gadget,Home Appliances,368.46,7,BrandB,3.1
+329,Compare Gadget,Clothing,325.91,488,BrandC,2.4
+330,Leg Item,Clothing,992.35,176,BrandB,5
+331,Purpose Item,Clothing,1468.31,272,BrandC,3.5
+332,Next Item,Clothing,394.37,4,BrandA,2.8
+333,Information Tool,Electronics,1420.72,122,BrandA,1.9
+334,Treatment Gadget,Toys,675.49,420,BrandA,1.9
+335,Soldier Item,Clothing,225.63,493,BrandD,3.7
+336,Around Tool,Electronics,537.12,11,BrandB,2.5
+337,Why Gadget,Clothing,1171.7,412,BrandA,2.4
+338,Cultural Item,Clothing,1727.01,89,BrandD,1.9
+339,Tell Tool,Books,1248.96,275,BrandC,2.2
+340,Memory Tool,Toys,1499.06,438,BrandD,2.3
+341,Final Tool,Books,1556.19,280,BrandD,1.2
+342,Of Tool,Books,818.87,422,BrandD,3.2
+343,Open Item,Home Appliances,1380.57,151,BrandB,4.7
+344,Somebody Gadget,Electronics,1869,402,BrandB,1.1
+345,In Item,Electronics,138.72,136,BrandC,1.9
+346,Data Gadget,Books,83.26,433,BrandD,3.9
+347,Machine Item,Home Appliances,1851.49,472,BrandC,3.7
+348,Month Tool,Books,287.46,426,BrandC,4.7
+349,Dark Tool,Home Appliances,577.74,51,BrandA,2.5
+350,Happy Tool,Clothing,68.05,424,BrandC,3.2
+351,Imagine Item,Toys,1209.73,334,BrandC,1.3
+352,Sign Item,Home Appliances,1677.27,101,BrandD,2.3
+353,Fill Tool,Clothing,1056.95,9,BrandD,1.1
+354,Clearly Tool,Home Appliances,1196.93,201,BrandD,4.8
+355,Hope Tool,Clothing,832.09,372,BrandB,5
+356,After Gadget,Toys,188.46,418,BrandB,1.5
+357,Mother Item,Clothing,1172.06,139,BrandB,4.6
+358,Value Tool,Books,1713.11,285,BrandB,1.1
+359,Ok Item,Books,1033.55,189,BrandD,2.4
+360,Public Gadget,Toys,529.52,151,BrandB,4.7
+361,What Gadget,Toys,117.27,369,BrandC,3.8
+362,Example Gadget,Books,1675.3,122,BrandD,4.9
+363,Really Item,Clothing,1576.2,120,BrandD,1.4
+364,Dog Item,Home Appliances,221.58,223,BrandC,1.1
+365,Decade Gadget,Electronics,516.85,291,BrandB,3.8
+366,Magazine Tool,Toys,1050.34,400,BrandA,4.2
+367,Than Gadget,Clothing,1248.09,365,BrandA,3
+368,Show Item,Electronics,1769.46,94,BrandB,2.9
+369,Notice Gadget,Home Appliances,905.07,474,BrandA,1.6
+370,Table Tool,Clothing,670.29,187,BrandA,4.5
+371,Doctor Tool,Electronics,1668.85,184,BrandB,4.9
+372,Newspaper Gadget,Toys,59.31,69,BrandD,1.8
+373,South Gadget,Electronics,118.91,317,BrandD,4.3
+374,Senior Item,Books,471.97,329,BrandA,1.5
+375,Miss Gadget,Books,1108.03,480,BrandD,1.7
+376,Position Tool,Clothing,1197.88,254,BrandC,4
+377,Water Item,Electronics,269.81,64,BrandC,2.3
+378,Fish Item,Electronics,668.27,50,BrandB,2.1
+379,Land Gadget,Toys,450.35,438,BrandC,4.6
+380,It Tool,Home Appliances,554.87,299,BrandC,2.1
+381,Various Item,Toys,400.88,421,BrandB,3.5
+382,One Tool,Home Appliances,1485.2,418,BrandA,3.7
+383,Method Gadget,Clothing,1299.51,424,BrandA,1.6
+384,Mouth Item,Electronics,163.79,364,BrandC,4.1
+385,Late Tool,Toys,124.47,347,BrandA,4.9
+386,Then Gadget,Clothing,315.96,17,BrandD,1.6
+387,On Item,Clothing,1011.4,194,BrandD,3.2
+388,Around Gadget,Toys,1026.86,485,BrandB,3.1
+389,Pattern Gadget,Toys,694.71,324,BrandC,1.6
+390,Prepare Gadget,Clothing,24.96,378,BrandA,2.5
+391,Eight Item,Books,492.03,397,BrandC,1.1
+392,Significant Item,Toys,155.01,426,BrandD,3.6
+393,Easy Tool,Home Appliances,521.3,129,BrandB,1.5
+394,Site Gadget,Home Appliances,1787.16,247,BrandC,2.1
+395,Important Tool,Books,615.19,381,BrandC,3.8
+396,Some Gadget,Clothing,820.34,177,BrandB,2.4
+397,As Tool,Clothing,991.13,37,BrandA,4.9
+398,Sense Gadget,Books,616.58,195,BrandC,3.9
+399,Rule Tool,Toys,1472.46,348,BrandB,4.2
+400,Beyond Item,Home Appliances,124.82,321,BrandB,3.1
+401,Difficult Tool,Toys,71.51,165,BrandD,3.3
+402,Mission Item,Home Appliances,1470.61,139,BrandC,1.4
+403,On Gadget,Toys,71.65,51,BrandC,3.7
+404,Pressure Gadget,Clothing,1723.58,161,BrandB,4
+405,City Gadget,Home Appliances,415.49,89,BrandA,2.1
+406,Safe Tool,Books,1200.11,421,BrandC,1.6
+407,Wrong Gadget,Clothing,1944.22,456,BrandB,1.1
+408,Sometimes Tool,Home Appliances,111.93,217,BrandA,1.3
+409,Do Item,Clothing,1038.02,281,BrandA,3.9
+410,My Gadget,Toys,1962.22,67,BrandC,4.3
+411,Worker Item,Clothing,490.88,138,BrandD,1.8
+412,And Item,Books,613.77,199,BrandB,3.4
+413,Account Gadget,Electronics,1978.61,320,BrandD,2.5
+414,Then Item,Electronics,1852.24,462,BrandA,4.8
+415,What Tool,Electronics,1288.8,31,BrandA,1.9
+416,Nature Tool,Books,1444.27,431,BrandC,4.9
+417,Art Item,Electronics,1148.2,85,BrandB,4.7
+418,Career Tool,Toys,570.37,442,BrandB,1.6
+419,Red Tool,Books,808.75,184,BrandB,1.6
+420,Today Gadget,Books,1193.96,266,BrandC,4
+421,Already Gadget,Toys,175.45,187,BrandD,4.4
+422,Smile Gadget,Home Appliances,894.91,420,BrandC,2.3
+423,Sense Item,Toys,1408.86,282,BrandC,3.4
+424,Population Item,Clothing,539.85,398,BrandC,1.7
+425,Agent Item,Books,282.05,92,BrandA,1.8
+426,Follow Gadget,Electronics,1675.69,428,BrandC,4.1
+427,Industry Item,Electronics,927.81,86,BrandA,4.1
+428,Change Gadget,Home Appliances,1686.17,45,BrandC,1.2
+429,Any Item,Electronics,1011.53,390,BrandA,4
+430,Quickly Tool,Home Appliances,1246.17,150,BrandD,1.7
+431,Experience Item,Clothing,1496.49,461,BrandC,5
+432,Quite Item,Books,300.49,235,BrandB,5
+433,Long Item,Electronics,166.89,287,BrandD,3.1
+434,Personal Tool,Toys,927.83,170,BrandA,1.4
+435,Born Tool,Books,1497.85,64,BrandC,1.8
+436,Sense Item,Books,1894.22,456,BrandD,2.9
+437,Development Tool,Electronics,148.4,332,BrandC,4.1
+438,Report Gadget,Electronics,355.1,35,BrandB,2.1
+439,Tough Gadget,Toys,1506.03,353,BrandB,2.8
+440,Mother Gadget,Toys,1545.2,204,BrandB,1.2
+441,Agency Tool,Home Appliances,1402.97,442,BrandC,4.8
+442,Traditional Item,Books,1075.56,360,BrandC,1.1
+443,Bed Gadget,Toys,1913.4,10,BrandD,1.6
+444,Not Item,Clothing,1020.99,136,BrandD,3.4
+445,Benefit Tool,Clothing,685.56,360,BrandB,1.7
+446,Car Item,Home Appliances,1702.54,316,BrandA,2.7
+447,Local Item,Electronics,321.71,477,BrandA,4
+448,Field Gadget,Clothing,1981.54,14,BrandA,3.9
+449,When Item,Clothing,1956.95,209,BrandA,3.9
+450,These Tool,Home Appliances,97.26,157,BrandC,4.4
+451,Film Gadget,Toys,1151.86,37,BrandC,2.9
+452,Piece Tool,Clothing,1462.01,211,BrandB,2.6
+453,Good Tool,Home Appliances,1551.19,65,BrandD,4.3
+454,Sit Tool,Home Appliances,32.13,200,BrandB,2.4
+455,Get Tool,Toys,1944.49,341,BrandA,3
+456,And Tool,Electronics,1113.71,411,BrandA,1.5
+457,Course Item,Home Appliances,1499.83,360,BrandA,3.9
+458,Generation Item,Books,880.39,23,BrandA,3.2
+459,Fear Gadget,Home Appliances,1377.42,57,BrandD,1.2
+460,Nature Tool,Electronics,543.15,202,BrandD,3.5
+461,Sea Item,Toys,1591.6,106,BrandC,2.4
+462,Next Tool,Clothing,561.66,374,BrandD,4.6
+463,Relate Gadget,Home Appliances,1856.32,191,BrandB,4.7
+464,Human Tool,Toys,1606.06,100,BrandA,2.3
+465,Important Item,Clothing,646.69,141,BrandA,1.5
+466,Data Tool,Clothing,174.06,116,BrandA,1.5
+467,Policy Gadget,Clothing,1237.05,397,BrandA,3.3
+468,Cold Tool,Home Appliances,783.81,284,BrandA,4.8
+469,Product Tool,Clothing,1946.07,349,BrandA,2
+470,Money Gadget,Toys,1280.52,33,BrandC,1.4
+471,Few Gadget,Toys,1697.93,397,BrandC,3
+472,Cultural Gadget,Clothing,428.46,177,BrandD,1.4
+473,Such Gadget,Clothing,232.18,495,BrandB,4.5
+474,Commercial Tool,Books,1678.13,274,BrandB,2.4
+475,Decide Gadget,Electronics,1759.86,373,BrandC,3.4
+476,Over Item,Books,1238.46,12,BrandC,2.7
+477,Stand Tool,Books,620.11,436,BrandA,2.7
+478,Writer Gadget,Toys,1871.47,158,BrandD,2.1
+479,Water Tool,Toys,872.67,495,BrandB,5
+480,Reveal Gadget,Books,127.68,117,BrandA,1.4
+481,Various Gadget,Clothing,232.15,422,BrandD,4.6
+482,Own Tool,Clothing,106.68,229,BrandA,1.8
+483,Surface Tool,Books,330.48,296,BrandC,3.7
+484,Institution Tool,Electronics,56.72,341,BrandB,3.4
+485,Reality Item,Toys,102.21,87,BrandD,2.3
+486,Million Item,Clothing,605.1,185,BrandA,3.1
+487,Since Item,Toys,1623.29,335,BrandA,3.3
+488,Catch Tool,Books,409.94,376,BrandB,4.3
+489,Whether Tool,Books,658.2,222,BrandD,3.7
+490,Environmental Gadget,Clothing,1198.45,142,BrandC,1.3
+491,Present Item,Clothing,500.35,242,BrandD,2.5
+492,Stay Gadget,Clothing,580.58,383,BrandB,4.6
+493,Next Tool,Electronics,1470.74,218,BrandD,3
+494,Record Tool,Books,1626.72,297,BrandC,2.7
+495,Make Item,Books,1742.68,190,BrandA,4.8
+496,Doctor Item,Electronics,1574.95,224,BrandC,3
+497,Information Tool,Books,1380.13,336,BrandB,1.6
+498,News Gadget,Clothing,1070.97,459,BrandC,1.7
+499,Democratic Gadget,Clothing,81.97,450,BrandC,4
+500,Nor Item,Electronics,1341.93,265,BrandA,3.3
+501,Media Gadget,Electronics,758.35,384,BrandB,2.8
+502,Group Gadget,Electronics,477.6,101,BrandC,3
+503,Security Tool,Electronics,1520.12,365,BrandB,4.6
+504,Like Gadget,Home Appliances,350.12,491,BrandC,3.5
+505,Draw Tool,Home Appliances,320.16,317,BrandA,5
+506,Argue Tool,Electronics,1984.11,15,BrandA,1.4
+507,Member Tool,Toys,732.52,35,BrandA,3.8
+508,Nothing Gadget,Home Appliances,1424.9,303,BrandD,3.1
+509,Southern Tool,Books,13.7,438,BrandD,3.1
+510,Record Item,Electronics,1642.18,281,BrandC,3
+511,Hospital Item,Books,633.29,414,BrandC,1.1
+512,What Item,Electronics,120.17,64,BrandC,3.6
+513,Size Item,Clothing,354.97,156,BrandB,3.7
+514,Ahead Tool,Electronics,163.51,51,BrandC,1.6
+515,Land Tool,Electronics,1611.85,493,BrandB,1.8
+516,Foot Tool,Books,944.75,116,BrandD,2.4
+517,Force Item,Toys,549.82,171,BrandD,2.8
+518,Job Tool,Toys,980.6,444,BrandC,3.2
+519,Professor Tool,Books,1463.73,278,BrandC,3.3
+520,Care Gadget,Electronics,1289.79,290,BrandA,1.6
+521,Hope Tool,Home Appliances,1185.96,449,BrandC,4.6
+522,Car Tool,Electronics,1903.84,207,BrandA,4.9
+523,Article Gadget,Home Appliances,598.3,420,BrandA,3.5
+524,Once Tool,Books,252.58,425,BrandB,4
+525,Hope Item,Electronics,1757.77,63,BrandA,3.6
+526,Hotel Item,Toys,897.34,162,BrandD,4.2
+527,Account Gadget,Clothing,1785.52,187,BrandA,4.7
+528,Source Gadget,Clothing,543.19,78,BrandC,4.9
+529,Throughout Gadget,Clothing,1885.22,378,BrandD,4.6
+530,Plant Item,Electronics,358.95,335,BrandD,2.2
+531,Meet Item,Clothing,1842.61,416,BrandB,2.7
+532,His Tool,Clothing,1744.5,451,BrandD,3.8
+533,Level Gadget,Home Appliances,1430.43,281,BrandB,3.7
+534,Process Gadget,Clothing,1567.31,445,BrandC,4.5
+535,Act Gadget,Books,1820.58,143,BrandC,2.4
+536,Business Item,Clothing,1004.65,94,BrandB,4.4
+537,Watch Item,Home Appliances,1892.11,207,BrandB,2.5
+538,Special Tool,Electronics,1816.49,388,BrandA,1.9
+539,Policy Tool,Books,794.67,267,BrandB,1.9
+540,Maintain Gadget,Books,1422.38,91,BrandA,4.5
+541,Number Tool,Books,262.39,141,BrandB,3.6
+542,Share Tool,Electronics,1045.87,461,BrandB,3.1
+543,Cultural Gadget,Toys,1592.8,366,BrandD,1.3
+544,Such Tool,Home Appliances,1890.59,430,BrandB,4.6
+545,End Tool,Home Appliances,1053.05,304,BrandD,2.4
+546,Political Gadget,Clothing,1192.37,445,BrandD,1.3
+547,That Item,Electronics,102.31,128,BrandD,3.4
+548,Affect Gadget,Home Appliances,1262.81,373,BrandD,1.7
+549,Increase Tool,Clothing,1964.33,147,BrandA,4.5
+550,Man Gadget,Books,1270.73,406,BrandD,2.3
+551,Name Item,Home Appliances,1548.22,406,BrandA,1.1
+552,Choose Tool,Home Appliances,1653.76,426,BrandD,2.4
+553,Consumer Gadget,Electronics,905.38,213,BrandB,3.1
+554,Sport Tool,Electronics,39.56,85,BrandD,4.3
+555,Set Item,Electronics,557.25,370,BrandD,2.8
+556,Officer Gadget,Books,513.37,87,BrandD,3.9
+557,Spend Gadget,Electronics,881.56,14,BrandC,3.6
+558,Strong Tool,Home Appliances,802.46,364,BrandC,3.3
+559,Practice Tool,Home Appliances,854.53,458,BrandD,4.7
+560,Thousand Gadget,Electronics,1586.77,91,BrandC,2.1
+561,Billion Tool,Home Appliances,288.71,31,BrandB,3.7
+562,Must Tool,Electronics,764.79,162,BrandA,2.9
+563,College Gadget,Books,1422.42,185,BrandA,2.7
+564,Thousand Tool,Home Appliances,149.7,295,BrandA,1.3
+565,Deep Tool,Toys,1682.05,150,BrandA,3.4
+566,Control Item,Home Appliances,1797.91,90,BrandC,3.4
+567,Set Tool,Home Appliances,1839.83,370,BrandD,3.3
+568,Ability Item,Home Appliances,1562.01,39,BrandB,3.7
+569,Store Tool,Home Appliances,1929.43,238,BrandC,5
+570,Fast Gadget,Electronics,1990.81,42,BrandB,1.2
+571,True Item,Toys,1054.9,412,BrandD,2.3
+572,Every Gadget,Clothing,345.11,42,BrandC,4.4
+573,Often Item,Books,963.43,389,BrandA,4.5
+574,Style Tool,Electronics,1414.62,366,BrandC,1.9
+575,Miss Item,Home Appliances,1084.02,59,BrandC,3.4
+576,Much Tool,Clothing,1180.35,463,BrandC,2.3
+577,High Gadget,Books,1809.52,462,BrandC,4.5
+578,Summer Item,Toys,819.87,500,BrandC,3.3
+579,To Gadget,Electronics,1380.91,236,BrandC,2
+580,Board Item,Electronics,359.32,326,BrandC,4.9
+581,Late Gadget,Books,932.22,397,BrandB,2.9
+582,Visit Item,Home Appliances,200.75,296,BrandD,3.7
+583,Event Item,Toys,1267.31,23,BrandD,2.4
+584,Culture Item,Home Appliances,471.56,396,BrandD,2.7
+585,Pm Tool,Books,1915.78,180,BrandD,1.5
+586,Sing Gadget,Books,366.47,66,BrandD,3.7
+587,To Gadget,Clothing,1218.89,304,BrandC,1.7
+588,Describe Item,Electronics,1709.36,401,BrandB,2.3
+589,To Tool,Books,224.09,474,BrandA,4.6
+590,Speak Tool,Home Appliances,1972.56,153,BrandC,4.6
+591,Direction Gadget,Electronics,247.34,267,BrandB,1.1
+592,Four Item,Books,395.23,14,BrandC,3.1
+593,Himself Gadget,Books,190.59,456,BrandD,4.3
+594,Deep Gadget,Clothing,1935.41,458,BrandB,2.6
+595,Consider Item,Electronics,1217.4,4,BrandC,4.4
+596,Instead Item,Books,1769.47,350,BrandB,2.4
+597,Traditional Tool,Clothing,980.71,283,BrandC,4.1
+598,Home Item,Clothing,1964.95,318,BrandC,3.6
+599,Go Item,Toys,265.95,175,BrandD,4.7
+600,Discover Item,Books,1375.76,366,BrandD,3.1
+601,Something Gadget,Clothing,922.15,432,BrandB,3.5
+602,Color Gadget,Toys,363.63,320,BrandA,3
+603,Occur Item,Home Appliances,196.96,250,BrandD,3.4
+604,Red Tool,Books,586.88,372,BrandD,3.6
+605,Court Tool,Home Appliances,557.85,247,BrandA,1.6
+606,Election Item,Toys,1635.74,135,BrandA,3.1
+607,Responsibility Item,Clothing,1747.33,368,BrandB,1.6
+608,Either Gadget,Books,959.35,342,BrandD,3.6
+609,Cultural Gadget,Clothing,762.49,409,BrandB,3.8
+610,Live Tool,Books,898.22,164,BrandC,2.3
+611,Law Item,Clothing,635.84,135,BrandD,4.1
+612,Relate Gadget,Books,73.35,500,BrandA,5
+613,Before Gadget,Clothing,697.11,256,BrandA,4.2
+614,Television Tool,Toys,988.87,452,BrandD,5
+615,Voice Gadget,Electronics,1727.07,193,BrandC,2.1
+616,Minute Gadget,Books,637.87,317,BrandD,1.9
+617,Bill Tool,Clothing,331.75,200,BrandD,2
+618,Dog Item,Home Appliances,200.98,301,BrandD,1.5
+619,Play Item,Toys,702.34,222,BrandB,1.6
+620,Reason Gadget,Clothing,1762.89,60,BrandB,2
+621,Assume Item,Home Appliances,1724.85,201,BrandD,2.8
+622,Card Gadget,Toys,1551.09,305,BrandB,4.9
+623,If Tool,Toys,838.24,449,BrandC,1.1
+624,Decide Gadget,Home Appliances,1094.31,182,BrandB,1
+625,Research Item,Toys,1806.58,237,BrandB,3.1
+626,Capital Item,Toys,267.14,75,BrandA,1.6
+627,Former Gadget,Electronics,1542.49,19,BrandD,2.4
+628,People Item,Home Appliances,1439.56,478,BrandC,2.1
+629,Pretty Gadget,Home Appliances,452.29,258,BrandD,2.7
+630,Face Gadget,Electronics,751.1,325,BrandD,1.2
+631,Leader Item,Clothing,1608.17,50,BrandC,1.8
+632,Service Item,Toys,1935.3,67,BrandA,3.6
+633,At Gadget,Clothing,1927.63,447,BrandB,1.9
+634,Bar Tool,Home Appliances,1512.61,161,BrandD,4.9
+635,Pretty Item,Home Appliances,915.5,47,BrandA,2.7
+636,Local Gadget,Toys,950.58,102,BrandC,3.6
+637,Class Item,Home Appliances,1522.53,42,BrandA,3.3
+638,Behind Tool,Home Appliances,328.22,330,BrandD,2.4
+639,Religious Item,Home Appliances,271.72,64,BrandA,2.2
+640,Ready Tool,Clothing,839.6,229,BrandC,2
+641,And Item,Books,193.76,76,BrandB,4.9
+642,Commercial Gadget,Home Appliances,1661.16,6,BrandC,4.5
+643,Baby Item,Electronics,1325.88,152,BrandA,4.7
+644,Member Gadget,Electronics,1475.43,317,BrandD,3.5
+645,Protect Tool,Home Appliances,476.84,315,BrandC,4.1
+646,They Tool,Home Appliances,1988.06,448,BrandA,1.9
+647,Answer Item,Toys,163.67,412,BrandC,1.9
+648,Bring Item,Books,930.15,159,BrandB,3.7
+649,Indeed Tool,Books,828.47,478,BrandC,4.5
+650,Let Item,Electronics,1925.94,62,BrandA,4
+651,Want Gadget,Books,1138.53,295,BrandC,4.6
+652,Theory Item,Toys,345.86,149,BrandC,2.5
+653,Learn Item,Clothing,227.88,224,BrandB,4.6
+654,Glass Gadget,Electronics,1142.39,117,BrandA,3
+655,Seek Item,Home Appliances,683.93,495,BrandB,3.8
+656,My Gadget,Home Appliances,585.9,387,BrandB,1.4
+657,Almost Gadget,Clothing,491.97,361,BrandC,3.1
+658,Maintain Tool,Clothing,822.65,84,BrandA,3.9
+659,Trouble Tool,Toys,1912.85,468,BrandB,4.4
+660,Nearly Tool,Books,1972.16,500,BrandB,4.2
+661,Could Item,Clothing,724.46,282,BrandB,3.8
+662,Participant Gadget,Home Appliances,1371.51,2,BrandA,2.6
+663,Boy Tool,Home Appliances,126.63,212,BrandB,4.9
+664,Able Item,Electronics,959.57,177,BrandC,1.6
+665,Try Tool,Clothing,1480.23,450,BrandC,2.8
+666,Upon Gadget,Books,220.16,80,BrandD,3.4
+667,Chair Item,Electronics,1017.08,312,BrandA,1.4
+668,Sister Item,Clothing,1929.87,403,BrandD,1.5
+669,Reason Gadget,Toys,341.52,365,BrandC,4.6
+670,Method Gadget,Toys,317.69,240,BrandC,3.3
+671,Do Gadget,Toys,1747.67,226,BrandA,2.9
+672,Drop Item,Home Appliances,705.32,217,BrandD,2.9
+673,Account Item,Toys,1743.97,215,BrandC,4.2
+674,Story Item,Home Appliances,131.94,268,BrandC,1.9
+675,Large Gadget,Books,1086.28,445,BrandD,3
+676,Begin Item,Books,1401.23,400,BrandA,3.6
+677,Move Tool,Clothing,1704.61,474,BrandB,1.2
+678,Information Gadget,Toys,1773.76,61,BrandA,2.2
+679,Local Gadget,Books,1740.47,120,BrandA,2.7
+680,Sure Gadget,Books,1119.62,256,BrandC,4.5
+681,Today Item,Toys,1073.43,432,BrandB,4.8
+682,Crime Gadget,Toys,687.67,339,BrandA,4.4
+683,On Tool,Toys,494.07,267,BrandD,3
+684,Food Tool,Toys,401.57,34,BrandC,1.6
+685,Piece Tool,Clothing,992.16,227,BrandD,4.9
+686,Move Item,Clothing,1711.08,86,BrandC,2.9
+687,Our Item,Home Appliances,1273.05,390,BrandA,1.8
+688,Especially Item,Clothing,163.48,336,BrandA,5
+689,Half Gadget,Electronics,1049.67,48,BrandD,3.6
+690,Later Item,Electronics,1915.55,346,BrandD,4.6
+691,Measure Gadget,Clothing,1465.44,309,BrandB,4
+692,Both Tool,Clothing,327.96,336,BrandA,3.9
+693,Appear Item,Home Appliances,35.79,422,BrandB,4.1
+694,Thank Tool,Home Appliances,1043.72,443,BrandB,1.1
+695,Prepare Item,Books,1214.41,122,BrandA,2.7
+696,She Item,Electronics,1196.07,61,BrandD,3.7
+697,Official Tool,Books,1146.38,343,BrandD,4.9
+698,Dinner Gadget,Home Appliances,1075.88,336,BrandC,2.1
+699,Poor Gadget,Electronics,1331.69,270,BrandA,1.7
+700,Claim Gadget,Clothing,1525.5,497,BrandA,1.2
+701,Southern Gadget,Clothing,851.17,126,BrandA,4.8
+702,Able Tool,Books,144.29,99,BrandD,1.5
+703,Field Item,Clothing,650.9,153,BrandD,1.9
+704,Force Tool,Toys,1741.85,103,BrandD,4.1
+705,Information Gadget,Toys,49.4,420,BrandD,1.4
+706,Hold Tool,Home Appliances,1270.94,65,BrandD,2.9
+707,Thought Item,Clothing,76.5,395,BrandA,3.1
+708,Letter Gadget,Electronics,654.46,52,BrandD,2.4
+709,Government Tool,Toys,1741.96,187,BrandD,3.2
+710,Animal Gadget,Clothing,826.92,282,BrandD,1.6
+711,None Gadget,Books,984.49,209,BrandC,2.4
+712,Anything Gadget,Clothing,935.27,368,BrandB,1.4
+713,North Gadget,Toys,96.53,495,BrandB,3.4
+714,Since Item,Toys,1239.22,28,BrandA,3.4
+715,Similar Gadget,Toys,566.02,463,BrandD,1.8
+716,Visit Gadget,Electronics,1655.21,121,BrandB,4.9
+717,Upon Tool,Home Appliances,1252.98,427,BrandD,2.6
+718,Might Item,Home Appliances,432.63,297,BrandB,3.3
+719,Push Tool,Toys,251.64,348,BrandC,4.4
+720,Heavy Tool,Home Appliances,797.44,41,BrandA,4
+721,Word Tool,Books,96.16,297,BrandC,3
+722,Learn Tool,Electronics,1672.72,66,BrandD,1.9
+723,Anything Tool,Clothing,613.31,408,BrandA,4.3
+724,Wonder Gadget,Clothing,678.19,148,BrandB,3.4
+725,Series Tool,Electronics,589.17,214,BrandB,4.4
+726,American Gadget,Books,412.97,171,BrandD,1.9
+727,Name Gadget,Electronics,802.79,4,BrandC,4.9
+728,Develop Gadget,Toys,1562.88,262,BrandB,1.3
+729,Factor Item,Toys,520.1,362,BrandB,1.4
+730,Mother Gadget,Books,208.96,491,BrandC,1.2
+731,Whether Item,Electronics,1796.65,223,BrandD,4.4
+732,Hope Tool,Books,1913.01,427,BrandA,3.7
+733,Difference Item,Toys,647.23,215,BrandC,1.1
+734,Character Item,Clothing,1139.73,13,BrandB,2.2
+735,Environment Tool,Electronics,1547.06,387,BrandA,3.5
+736,Movement Gadget,Home Appliances,463.95,235,BrandB,3.4
+737,Test Item,Clothing,792.79,256,BrandA,2.1
+738,Hospital Item,Home Appliances,107.66,305,BrandC,3.6
+739,Beat Gadget,Clothing,788.99,144,BrandD,1.8
+740,Resource Tool,Home Appliances,1522.84,197,BrandB,4.3
+741,Wife Tool,Home Appliances,1760.2,490,BrandC,2.2
+742,Ready Tool,Books,265.08,101,BrandA,1.1
+743,Every Gadget,Books,1589.97,435,BrandD,1.7
+744,Hear Tool,Books,180.33,329,BrandC,1.4
+745,Two Gadget,Books,179.59,151,BrandD,1.6
+746,Drive Tool,Books,860.02,87,BrandD,4.5
+747,Blood Item,Toys,822.86,373,BrandB,3
+748,Especially Gadget,Clothing,790.47,54,BrandA,2.8
+749,Full Gadget,Toys,85.47,447,BrandD,2.2
+750,Health Item,Toys,448.47,24,BrandC,1.4
+751,Stay Tool,Toys,438.4,69,BrandB,3.4
+752,Quality Tool,Toys,63.57,448,BrandC,4.5
+753,Reason Tool,Electronics,462.92,318,BrandC,4.3
+754,Ok Tool,Home Appliances,788.3,22,BrandD,1.5
+755,Now Tool,Home Appliances,170.42,407,BrandA,2.7
+756,Plant Item,Home Appliances,1787.48,344,BrandB,2
+757,Clearly Tool,Books,618.52,369,BrandB,2.2
+758,Admit Item,Toys,498.71,398,BrandB,2.4
+759,Group Item,Clothing,496.42,411,BrandB,1.5
+760,Newspaper Item,Home Appliances,1015.28,64,BrandC,1.7
+761,Performance Gadget,Books,989.02,174,BrandA,1.3
+762,Involve Gadget,Electronics,1373.21,52,BrandA,3.3
+763,Perhaps Gadget,Books,1126.65,372,BrandC,1.4
+764,Hair Gadget,Clothing,905.32,24,BrandB,1.9
+765,Of Item,Toys,432.28,360,BrandB,1.5
+766,Air Gadget,Books,1086.49,139,BrandB,2.4
+767,Community Item,Home Appliances,1100.16,440,BrandC,4.6
+768,Draw Tool,Home Appliances,545.1,44,BrandC,3.8
+769,Out Item,Clothing,79.15,252,BrandB,2.5
+770,But Item,Books,677.84,302,BrandB,2.4
+771,Say Item,Toys,1394.66,325,BrandC,2.7
+772,Develop Item,Home Appliances,1621.24,395,BrandB,2.8
+773,Performance Item,Clothing,1309.18,406,BrandC,1.4
+774,Fight Item,Electronics,1312.27,40,BrandC,2.6
+775,Stand Item,Toys,699.34,175,BrandA,2.4
+776,Tend Item,Toys,1424.3,238,BrandA,4.5
+777,Watch Tool,Books,315.72,463,BrandB,3.6
+778,Chance Gadget,Toys,1820.97,176,BrandD,4.4
+779,But Gadget,Books,404.32,106,BrandB,3.4
+780,Method Item,Toys,1342.16,362,BrandD,2.4
+781,Same Gadget,Books,687.96,323,BrandC,2.1
+782,Girl Gadget,Electronics,1318.26,99,BrandC,1.9
+783,Manager Item,Electronics,531.84,247,BrandC,4.3
+784,East Item,Books,283.08,62,BrandC,2.9
+785,Near Tool,Toys,657.07,253,BrandA,1.2
+786,Hope Item,Books,1691.24,336,BrandC,4.4
+787,Guy Item,Home Appliances,831.22,99,BrandA,4.4
+788,Enough Tool,Home Appliances,1991.99,315,BrandC,3.9
+789,Film Gadget,Electronics,851.12,498,BrandC,3.4
+790,Grow Gadget,Toys,1858.24,172,BrandA,1.2
+791,Public Item,Home Appliances,1843.16,168,BrandA,1.2
+792,Production Gadget,Toys,1024.09,233,BrandD,1.5
+793,Wide Item,Toys,805.27,338,BrandC,4.3
+794,Meet Tool,Electronics,143.92,493,BrandA,3.1
+795,Evening Item,Electronics,154.84,417,BrandC,3
+796,Capital Item,Toys,136.68,108,BrandD,4
+797,Respond Gadget,Electronics,1499.35,330,BrandD,4.6
+798,Bill Gadget,Books,589.68,289,BrandC,3.9
+799,Black Gadget,Toys,723.93,433,BrandC,3
+800,Statement Item,Home Appliances,824.47,432,BrandB,3.3
+801,Energy Tool,Electronics,683.15,104,BrandC,2
+802,Manager Gadget,Clothing,1594.88,12,BrandC,2.6
+803,Tonight Item,Electronics,1407.02,236,BrandB,2.1
+804,Interest Item,Home Appliances,1443.62,35,BrandC,1.9
+805,View Tool,Home Appliances,1711.29,193,BrandB,2.3
+806,Soon Gadget,Toys,1864.58,288,BrandA,4.5
+807,Major Item,Clothing,1262.84,130,BrandD,2.8
+808,Maintain Gadget,Electronics,772.34,228,BrandD,4
+809,Add Item,Toys,369.66,427,BrandB,1.9
+810,Young Gadget,Toys,453.22,105,BrandD,1.7
+811,Walk Tool,Home Appliances,749.11,231,BrandB,3.2
+812,Develop Item,Clothing,1061.66,138,BrandD,1.4
+813,Only Tool,Books,1717.26,167,BrandA,4.4
+814,Civil Tool,Electronics,1820.12,123,BrandC,2.6
+815,Top Gadget,Clothing,632.43,167,BrandB,1.5
+816,Serious Gadget,Electronics,827.14,478,BrandB,3.2
+817,Hand Tool,Electronics,200.23,387,BrandD,1.3
+818,Page Tool,Books,1919.95,488,BrandC,4.7
+819,Recently Item,Electronics,400.94,303,BrandC,3.4
+820,Focus Tool,Clothing,1496.33,108,BrandD,3.7
+821,Sister Tool,Books,240.18,369,BrandC,4.9
+822,Dog Tool,Electronics,229.18,200,BrandC,1.6
+823,Shake Tool,Books,1374.07,26,BrandC,3.3
+824,Important Gadget,Clothing,1845.22,10,BrandD,4.3
+825,Third Tool,Home Appliances,1232.83,37,BrandB,4.8
+826,Husband Tool,Home Appliances,503.17,108,BrandD,3.5
+827,Away Gadget,Electronics,1494.52,84,BrandB,1.4
+828,Detail Tool,Books,609.76,89,BrandA,2.6
+829,At Item,Toys,1549.35,38,BrandA,4.8
+830,Audience Tool,Clothing,546.57,4,BrandD,2.6
+831,Analysis Item,Books,1291.6,349,BrandC,2.6
+832,Ground Tool,Books,1129.61,120,BrandA,4.9
+833,Blood Tool,Home Appliances,36.96,375,BrandD,4
+834,Magazine Gadget,Electronics,945.18,410,BrandA,2.5
+835,Hard Gadget,Home Appliances,381.96,446,BrandB,2.8
+836,Yet Gadget,Home Appliances,1632.12,124,BrandA,4.7
+837,Senior Item,Clothing,574.49,448,BrandC,2.8
+838,Bed Gadget,Books,537.99,72,BrandC,4.4
+839,First Tool,Books,1117.04,193,BrandB,3
+840,Main Gadget,Clothing,978.11,281,BrandB,2
+841,Share Item,Electronics,1571.46,453,BrandA,1
+842,Social Item,Books,527.6,81,BrandD,2
+843,Eat Tool,Clothing,907.64,125,BrandA,4.2
+844,Sort Tool,Books,1054.25,212,BrandD,3.2
+845,Without Tool,Books,1135.72,264,BrandC,3.5
+846,Address Gadget,Books,927.14,276,BrandC,4.1
+847,Down Item,Electronics,1320.25,302,BrandA,4.3
+848,West Gadget,Home Appliances,783.54,295,BrandC,1
+849,Nature Item,Home Appliances,342.58,107,BrandB,2.7
+850,Who Gadget,Electronics,748.69,483,BrandA,2
+851,Create Tool,Clothing,923.85,449,BrandA,2.7
+852,From Gadget,Home Appliances,333.61,176,BrandD,4.1
+853,Ready Gadget,Electronics,1787.99,363,BrandD,3.3
+854,Father Tool,Books,1135.78,90,BrandB,2
+855,Response Item,Toys,1839.47,308,BrandD,2
+856,Clear Item,Toys,188.98,423,BrandA,5
+857,During Item,Electronics,367.35,387,BrandD,3.1
+858,Safe Item,Toys,764.4,38,BrandB,3.5
+859,Get Item,Books,1851.19,4,BrandD,4.1
+860,Go Gadget,Home Appliances,37.1,440,BrandA,1.5
+861,Again Gadget,Home Appliances,10.78,381,BrandA,1
+862,City Item,Home Appliances,1046.19,442,BrandA,1.7
+863,Cause Item,Clothing,1132.49,213,BrandD,3.2
+864,Political Gadget,Books,1900.26,414,BrandD,3.4
+865,Media Tool,Home Appliances,1756.59,287,BrandC,3.5
+866,Security Item,Clothing,1914.05,411,BrandD,2.4
+867,Standard Gadget,Electronics,1120.29,365,BrandA,2.4
+868,Reveal Tool,Books,1174.32,84,BrandB,1.5
+869,Big Gadget,Toys,909.27,495,BrandA,4.2
+870,Discover Gadget,Electronics,786.59,336,BrandC,4.7
+871,Hear Item,Toys,1593.09,57,BrandB,4.3
+872,Which Tool,Electronics,90.79,399,BrandB,2.2
+873,Skill Tool,Electronics,1863.9,87,BrandA,2.8
+874,Policy Tool,Home Appliances,838.61,328,BrandC,3.4
+875,Score Gadget,Clothing,1822.71,409,BrandD,2.3
+876,Arm Gadget,Electronics,1898.26,336,BrandA,1.2
+877,Soldier Tool,Home Appliances,1308.63,255,BrandD,4.2
+878,Who Gadget,Clothing,1840,235,BrandA,4.7
+879,Teach Item,Clothing,1124.95,364,BrandB,1.7
+880,Teacher Gadget,Toys,1711.49,40,BrandC,3
+881,Difference Item,Clothing,515.53,36,BrandC,3.9
+882,Wrong Gadget,Home Appliances,1297.01,241,BrandD,1.2
+883,Center Tool,Home Appliances,280.83,163,BrandD,1.8
+884,Recently Gadget,Clothing,680.9,237,BrandD,2.8
+885,Focus Item,Books,597.99,129,BrandD,4.5
+886,Serve Tool,Clothing,879.3,480,BrandD,5
+887,Particularly Item,Clothing,859.66,189,BrandD,4.6
+888,Move Item,Toys,1290.75,367,BrandA,3.4
+889,Turn Tool,Electronics,1787.87,60,BrandD,4.1
+890,Improve Item,Home Appliances,417.61,392,BrandC,3.9
+891,Stay Item,Toys,761.89,267,BrandD,1.1
+892,Nor Tool,Electronics,1600.78,422,BrandC,1.2
+893,Answer Item,Books,264.46,80,BrandB,2
+894,Cup Gadget,Toys,785.6,482,BrandD,1.9
+895,Answer Item,Toys,959.19,470,BrandC,4.2
+896,Professor Tool,Books,1553.61,258,BrandB,4.1
+897,Feeling Item,Electronics,1836.36,72,BrandB,3.7
+898,Always Item,Toys,472.04,335,BrandC,2.4
+899,Product Tool,Books,1240.11,89,BrandA,3.6
+900,Since Tool,Home Appliances,1436.05,148,BrandD,1.6
+901,Home Gadget,Home Appliances,1754.47,98,BrandA,1.5
+902,Prevent Tool,Home Appliances,1174.51,91,BrandC,4.9
+903,According Item,Electronics,618.61,0,BrandD,3.2
+904,Animal Gadget,Home Appliances,152.5,401,BrandD,3.9
+905,Month Gadget,Books,1634.69,488,BrandA,1.4
+906,Talk Tool,Home Appliances,266.4,483,BrandC,1.1
+907,Alone Item,Clothing,1891.42,66,BrandD,3.9
+908,Suffer Gadget,Toys,123.24,325,BrandD,2.7
+909,Dog Item,Electronics,1765.18,319,BrandD,2.7
+910,Answer Gadget,Clothing,1242.87,384,BrandC,4.2
+911,Adult Item,Toys,1412.01,345,BrandA,1.4
+912,Direction Tool,Books,371.18,489,BrandA,4.6
+913,Family Tool,Toys,575.98,360,BrandB,1.8
+914,Carry Item,Electronics,72.94,487,BrandB,4.5
+915,Beyond Gadget,Books,244.08,52,BrandA,3.3
+916,Either Gadget,Electronics,225.72,401,BrandA,1.5
+917,Race Item,Clothing,136.03,45,BrandB,1.9
+918,Stay Tool,Electronics,1170.06,330,BrandA,3.5
+919,Former Item,Toys,1558.05,486,BrandD,3.3
+920,Marriage Tool,Clothing,939.02,249,BrandC,3.3
+921,Material Gadget,Home Appliances,498.52,369,BrandC,3.3
+922,Friend Gadget,Home Appliances,1983.8,50,BrandB,1.6
+923,Tell Tool,Clothing,520.36,462,BrandD,1.7
+924,Us Item,Toys,1102.96,184,BrandB,2.5
+925,Build Item,Electronics,454.42,117,BrandA,1.4
+926,Answer Tool,Books,248.13,249,BrandD,4.6
+927,Drug Item,Electronics,1479.01,320,BrandB,2.4
+928,Beautiful Tool,Toys,1802.75,406,BrandA,4.6
+929,Human Item,Electronics,825.52,329,BrandD,3.2
+930,Consider Tool,Clothing,1414.17,52,BrandB,2.3
+931,Usually Item,Clothing,1988.11,217,BrandB,2.4
+932,You Item,Clothing,1054.32,156,BrandB,1.5
+933,Least Tool,Toys,1281.54,87,BrandC,3.3
+934,Democratic Item,Electronics,1988.94,108,BrandA,2
+935,Quite Gadget,Clothing,1003.24,275,BrandA,4.8
+936,The Item,Home Appliances,604.11,441,BrandA,4.6
+937,Cut Gadget,Toys,1385.73,197,BrandB,2.6
+938,Sister Tool,Home Appliances,1376.38,373,BrandC,3.2
+939,Purpose Gadget,Clothing,1160.92,340,BrandD,4.5
+940,Town Item,Clothing,1048.34,493,BrandC,1.5
+941,Good Gadget,Clothing,857.54,65,BrandB,1.4
+942,Better Item,Electronics,1902.56,255,BrandA,2.9
+943,Environmental Item,Clothing,770.06,416,BrandC,3.7
+944,Crime Gadget,Clothing,1005.95,319,BrandA,1.3
+945,Happen Item,Books,173.72,412,BrandD,4.9
+946,Good Tool,Home Appliances,1359.38,439,BrandC,1
+947,Side Gadget,Home Appliances,794.53,149,BrandD,5
+948,Continue Item,Toys,852.04,124,BrandD,1.2
+949,Short Gadget,Books,1078.37,55,BrandC,4.6
+950,Case Gadget,Toys,1115.04,352,BrandC,3.6
+951,Example Gadget,Toys,1685.39,366,BrandC,3.9
+952,Month Tool,Home Appliances,1071.34,319,BrandC,3.7
+953,Expert Tool,Toys,76.83,275,BrandB,4.6
+954,Eight Item,Home Appliances,1171.11,258,BrandB,2.3
+955,College Item,Home Appliances,533.68,248,BrandC,3.7
+956,Sort Item,Toys,140.54,391,BrandB,2.3
+957,Although Item,Clothing,1559.43,465,BrandD,1.3
+958,Run Tool,Home Appliances,1950.79,51,BrandB,2.9
+959,Individual Item,Electronics,1820.83,89,BrandA,3.3
+960,Lose Tool,Home Appliances,845.49,325,BrandB,1.1
+961,Nor Tool,Toys,403.68,126,BrandC,4.7
+962,Study Item,Electronics,1006.74,385,BrandC,4.6
+963,Doctor Tool,Home Appliances,1374.98,465,BrandA,2.8
+964,Today Item,Books,1996.12,483,BrandD,3.4
+965,Site Tool,Home Appliances,623.01,190,BrandA,2.5
+966,Baby Tool,Home Appliances,1512.8,280,BrandC,4.2
+967,Politics Tool,Home Appliances,1422.71,394,BrandC,3.1
+968,Need Gadget,Home Appliances,1740.77,347,BrandD,1.5
+969,Old Item,Toys,51.22,205,BrandC,1.6
+970,Fact Gadget,Home Appliances,1798.19,41,BrandD,3.2
+971,Later Item,Toys,855.09,256,BrandB,3.9
+972,Opportunity Gadget,Electronics,1032.98,274,BrandC,3.6
+973,Must Tool,Books,108.87,482,BrandA,3.8
+974,Even Tool,Electronics,1471.4,394,BrandB,4.7
+975,Perform Item,Electronics,1860.02,499,BrandD,4.9
+976,Eat Item,Books,715.17,476,BrandB,4.2
+977,Degree Gadget,Clothing,1242.31,379,BrandC,4.4
+978,Cold Gadget,Electronics,108.48,394,BrandC,3.7
+979,Born Item,Books,612.83,416,BrandB,3.6
+980,Officer Item,Toys,1222.28,91,BrandA,3.5
+981,Region Gadget,Electronics,808.58,475,BrandC,3.5
+982,Since Gadget,Toys,1270.51,147,BrandD,1.2
+983,Meeting Gadget,Toys,1586.87,156,BrandD,3.5
+984,East Tool,Electronics,710.7,143,BrandD,4.9
+985,Very Gadget,Electronics,805.62,52,BrandB,1.2
+986,Vote Gadget,Electronics,1362.36,450,BrandC,2.9
+987,Business Item,Home Appliances,1845.27,402,BrandC,4.8
+988,Culture Tool,Home Appliances,508.72,106,BrandB,4.3
+989,Act Tool,Home Appliances,1174.97,349,BrandC,4.3
+990,Center Item,Toys,125.59,341,BrandC,2.4
+991,List Item,Clothing,1607.23,284,BrandD,4.1
+992,Manage Gadget,Electronics,1785.08,224,BrandD,4.7
+993,Magazine Item,Clothing,1765.78,150,BrandB,3.8
+994,Exist Tool,Electronics,1065.23,500,BrandD,2.9
+995,Head Item,Home Appliances,1910.82,292,BrandB,3.4
+996,Send Gadget,Electronics,1988.91,277,BrandB,2.1
+997,Cell Item,Electronics,359.19,472,BrandC,4.2
+998,Reflect Gadget,Clothing,466.02,94,BrandD,4.5
+999,Force Tool,Clothing,1748.08,39,BrandC,3
+1000,Which Gadget,Toys,764.73,239,BrandB,2.6

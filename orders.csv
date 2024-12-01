@@ -1,0 +1,1001 @@
+OrderID,UserID,OrderDate,TotalAmount,Status,PaymentMode,ShippingCost
+1,752,2/3/2024,733.76,Pending,Cash on Delivery,11.1
+2,830,1/17/2024,420.68,Pending,Bank Transfer,5.05
+3,676,1/31/2024,930.71,Cancelled,Credit Card,10.22
+4,917,6/6/2024,419.01,Delivered,Credit Card,5.61
+5,86,10/19/2024,714,Pending,Cash on Delivery,49.99
+6,641,3/13/2024,575.39,Shipped,Credit Card,30.26
+7,900,8/11/2024,181.53,Delivered,Bank Transfer,17.32
+8,499,3/27/2024,215.68,Shipped,PayPal,39.72
+9,949,1/8/2024,507.19,Delivered,Bank Transfer,44.43
+10,113,1/22/2024,649.8,Cancelled,Credit Card,26.14
+11,962,5/21/2024,466.43,Shipped,Credit Card,23.3
+12,498,11/14/2024,413.3,Pending,Credit Card,39.57
+13,791,10/17/2024,898.78,Delivered,Cash on Delivery,21.99
+14,949,9/14/2024,273.32,Delivered,PayPal,23.62
+15,353,2/14/2024,684.25,Delivered,PayPal,14.98
+16,971,1/18/2024,310.13,Delivered,Cash on Delivery,10.41
+17,717,9/8/2024,140.05,Shipped,PayPal,26.6
+18,407,7/10/2024,803.83,Shipped,Credit Card,30.41
+19,176,5/3/2024,644.3,Shipped,Cash on Delivery,36.62
+20,243,6/12/2024,295.25,Shipped,PayPal,31.16
+21,201,11/3/2024,504.02,Shipped,Cash on Delivery,40.38
+22,665,5/22/2024,856.23,Shipped,PayPal,34.45
+23,817,10/11/2024,964.81,Shipped,PayPal,46.5
+24,633,4/24/2024,500.16,Cancelled,Cash on Delivery,13.32
+25,181,11/19/2023,206.34,Cancelled,Bank Transfer,16.29
+26,507,2/19/2024,999.11,Shipped,Cash on Delivery,24.41
+27,401,5/23/2024,134.09,Shipped,Credit Card,44.81
+28,500,10/20/2024,512.94,Shipped,Cash on Delivery,31.52
+29,150,12/7/2023,260.98,Delivered,Credit Card,45.78
+30,777,8/2/2024,352.05,Delivered,Bank Transfer,22.49
+31,856,2/13/2024,59.98,Pending,Credit Card,36.06
+32,62,10/1/2024,429.37,Shipped,PayPal,23.17
+33,704,3/1/2024,118.84,Delivered,Credit Card,7.07
+34,603,5/5/2024,923.39,Delivered,Cash on Delivery,13.48
+35,373,12/19/2023,669.03,Shipped,Credit Card,35.83
+36,404,2/3/2024,507.62,Cancelled,Cash on Delivery,26.01
+37,756,1/30/2024,774.72,Pending,Bank Transfer,45.66
+38,447,7/28/2024,591.86,Delivered,Credit Card,17.58
+39,513,6/30/2024,494.41,Delivered,Cash on Delivery,7.29
+40,825,5/11/2024,795.87,Pending,Cash on Delivery,11.14
+41,511,10/18/2024,344.74,Cancelled,Bank Transfer,9.29
+42,193,11/12/2024,645.7,Shipped,Credit Card,41.91
+43,467,8/13/2024,425.63,Pending,PayPal,46.1
+44,191,3/12/2024,660.29,Shipped,Credit Card,49.47
+45,238,1/7/2024,770.11,Pending,PayPal,31.37
+46,243,5/30/2024,534.07,Pending,Cash on Delivery,41.44
+47,179,11/17/2024,824.81,Pending,Credit Card,28.39
+48,663,11/19/2023,317.49,Pending,Cash on Delivery,28.94
+49,683,10/7/2024,965.9,Cancelled,PayPal,25.03
+50,787,1/24/2024,433.79,Delivered,Cash on Delivery,13.44
+51,941,12/2/2023,977.56,Cancelled,Cash on Delivery,34.31
+52,876,3/6/2024,918.07,Delivered,Credit Card,35.26
+53,179,2/25/2024,289.47,Pending,Cash on Delivery,36.99
+54,346,9/17/2024,534.07,Delivered,Cash on Delivery,35.23
+55,530,12/30/2023,535.54,Shipped,Credit Card,44.72
+56,515,6/20/2024,670.99,Cancelled,Credit Card,31.07
+57,103,4/7/2024,935.38,Cancelled,Credit Card,44.18
+58,822,1/23/2024,724.24,Cancelled,Bank Transfer,7.48
+59,222,5/16/2024,769.14,Pending,Bank Transfer,30.62
+60,98,7/21/2024,682.71,Cancelled,Cash on Delivery,19.77
+61,889,12/22/2023,487.52,Cancelled,Credit Card,36.34
+62,21,1/7/2024,563.21,Shipped,Credit Card,39.1
+63,49,5/19/2024,552.85,Shipped,Bank Transfer,11.08
+64,209,3/24/2024,235.04,Shipped,PayPal,49.92
+65,38,6/14/2024,273.16,Shipped,Bank Transfer,49.71
+66,651,10/20/2024,724.87,Delivered,Credit Card,38.27
+67,471,1/3/2024,597.07,Pending,PayPal,24.34
+68,620,7/6/2024,92.86,Cancelled,Bank Transfer,11.35
+69,515,10/19/2024,882.42,Shipped,PayPal,19.28
+70,699,11/3/2024,951.72,Shipped,PayPal,29.85
+71,937,11/29/2023,230.49,Pending,Credit Card,42.63
+72,182,6/16/2024,292.82,Shipped,PayPal,25.17
+73,451,2/27/2024,365.91,Cancelled,PayPal,21.88
+74,620,1/30/2024,191.7,Delivered,Bank Transfer,7.52
+75,534,11/28/2023,878.47,Pending,PayPal,25.61
+76,949,2/29/2024,788.36,Pending,PayPal,31.44
+77,513,6/16/2024,264.06,Pending,Cash on Delivery,29.88
+78,339,12/1/2023,738.24,Delivered,PayPal,27.45
+79,948,3/6/2024,277.58,Cancelled,Credit Card,8.56
+80,112,3/17/2024,748.98,Shipped,PayPal,25.5
+81,393,10/25/2024,813.93,Cancelled,Bank Transfer,26.12
+82,1000,4/3/2024,495.3,Shipped,Cash on Delivery,44.07
+83,285,5/17/2024,781.22,Delivered,Cash on Delivery,19.7
+84,638,5/18/2024,382.09,Delivered,Credit Card,13.81
+85,636,10/6/2024,249.32,Cancelled,Bank Transfer,46.18
+86,658,2/28/2024,691.96,Pending,Bank Transfer,36.07
+87,252,2/28/2024,492.1,Cancelled,PayPal,36.99
+88,725,9/18/2024,925.24,Cancelled,Cash on Delivery,5.57
+89,630,5/31/2024,918.15,Delivered,Cash on Delivery,9.69
+90,939,7/5/2024,87.23,Cancelled,Credit Card,27.95
+91,348,11/29/2023,768.01,Delivered,Cash on Delivery,38.87
+92,102,6/8/2024,375.55,Pending,PayPal,47.37
+93,51,2/28/2024,794.69,Delivered,PayPal,29.84
+94,284,12/21/2023,911.4,Delivered,Credit Card,20.7
+95,799,2/4/2024,391.68,Cancelled,Bank Transfer,41.41
+96,749,7/11/2024,123.37,Cancelled,Credit Card,18.01
+97,460,5/25/2024,353.02,Shipped,Cash on Delivery,23.85
+98,902,5/12/2024,574.41,Cancelled,Cash on Delivery,38.24
+99,741,9/8/2024,315.75,Shipped,PayPal,42.75
+100,595,8/16/2024,360.06,Cancelled,Credit Card,46.73
+101,993,4/9/2024,648.17,Delivered,Cash on Delivery,37.72
+102,123,3/30/2024,806.93,Delivered,PayPal,20.14
+103,187,6/5/2024,671.73,Pending,Bank Transfer,45.14
+104,728,7/20/2024,906.04,Pending,Bank Transfer,16.64
+105,791,7/3/2024,153.35,Shipped,PayPal,34.81
+106,695,6/15/2024,815.64,Delivered,Credit Card,21.77
+107,472,4/12/2024,119.53,Cancelled,Bank Transfer,41.53
+108,576,7/20/2024,941.73,Cancelled,Cash on Delivery,25.37
+109,770,8/10/2024,535.58,Pending,Bank Transfer,35.33
+110,596,5/23/2024,117.38,Shipped,PayPal,26.43
+111,534,11/26/2023,916.64,Delivered,PayPal,16.62
+112,418,10/3/2024,311.42,Delivered,PayPal,33.9
+113,26,3/19/2024,851.62,Cancelled,PayPal,29.42
+114,355,4/30/2024,241.73,Shipped,Bank Transfer,15.2
+115,245,3/28/2024,240.7,Cancelled,Cash on Delivery,48.39
+116,240,2/16/2024,60.27,Delivered,PayPal,15.75
+117,426,12/17/2023,845.33,Pending,Bank Transfer,29.36
+118,722,3/18/2024,682.59,Shipped,Cash on Delivery,49.17
+119,558,5/21/2024,665.59,Cancelled,Cash on Delivery,10.18
+120,679,2/5/2024,637.81,Delivered,PayPal,15.76
+121,549,4/8/2024,565.53,Cancelled,PayPal,30.83
+122,39,9/25/2024,93.79,Pending,PayPal,8.59
+123,685,7/14/2024,140.83,Cancelled,Bank Transfer,49.66
+124,249,10/4/2024,642.19,Cancelled,Bank Transfer,48.93
+125,56,3/12/2024,299.53,Delivered,Credit Card,38.67
+126,598,4/20/2024,837.21,Pending,Bank Transfer,37.8
+127,356,10/12/2024,802.88,Delivered,Credit Card,21.56
+128,731,7/26/2024,563.09,Delivered,PayPal,8.74
+129,333,2/3/2024,625.46,Shipped,Credit Card,31.24
+130,443,7/3/2024,92.55,Shipped,Bank Transfer,12.58
+131,955,5/4/2024,74.5,Cancelled,Bank Transfer,25.64
+132,509,5/12/2024,205.87,Cancelled,PayPal,29.17
+133,366,6/24/2024,650.62,Pending,Cash on Delivery,39.2
+134,468,5/23/2024,740.93,Cancelled,Credit Card,25.64
+135,666,11/30/2023,898.17,Pending,Cash on Delivery,8.5
+136,847,4/9/2024,544.67,Cancelled,Credit Card,23.73
+137,429,6/25/2024,752.35,Shipped,Bank Transfer,12.64
+138,364,9/1/2024,738.71,Pending,Cash on Delivery,32.05
+139,80,11/15/2024,223.73,Shipped,PayPal,38.58
+140,551,3/21/2024,950.32,Delivered,PayPal,9.67
+141,432,7/7/2024,300.12,Shipped,Credit Card,27.68
+142,342,5/27/2024,623.48,Shipped,Credit Card,7.13
+143,806,8/3/2024,629.06,Pending,Bank Transfer,48.52
+144,271,3/29/2024,966.98,Shipped,PayPal,37.43
+145,861,7/31/2024,990.68,Cancelled,Cash on Delivery,25.5
+146,730,4/17/2024,529.06,Pending,Credit Card,12.67
+147,326,12/12/2023,746.71,Pending,Credit Card,26.29
+148,44,2/17/2024,193.78,Shipped,Credit Card,46.47
+149,554,7/6/2024,906.75,Cancelled,Cash on Delivery,6.24
+150,105,3/13/2024,786.1,Shipped,Bank Transfer,8.31
+151,521,7/8/2024,415.33,Delivered,PayPal,37.38
+152,825,12/1/2023,295.32,Pending,Cash on Delivery,27.84
+153,393,6/19/2024,958.28,Pending,Cash on Delivery,35.41
+154,941,1/19/2024,332.85,Pending,Bank Transfer,31.26
+155,747,10/8/2024,831.3,Pending,Bank Transfer,24.59
+156,287,5/19/2024,911.18,Delivered,Bank Transfer,19.4
+157,353,11/1/2024,470.8,Delivered,Cash on Delivery,15.3
+158,385,9/15/2024,404.6,Shipped,Credit Card,30.26
+159,209,8/10/2024,297.08,Pending,PayPal,28.81
+160,397,6/16/2024,502.5,Cancelled,Credit Card,49.66
+161,277,5/25/2024,848.79,Shipped,Bank Transfer,24.78
+162,190,12/28/2023,506.18,Pending,Credit Card,28.15
+163,109,7/29/2024,473.82,Delivered,Credit Card,18.42
+164,649,8/5/2024,359.34,Shipped,Cash on Delivery,37.69
+165,796,4/12/2024,241.96,Shipped,Cash on Delivery,23.85
+166,17,3/19/2024,761.75,Pending,Credit Card,30.51
+167,693,6/7/2024,865.56,Shipped,Cash on Delivery,32.16
+168,17,11/12/2024,348.31,Pending,Credit Card,49.43
+169,448,9/4/2024,828.48,Delivered,Cash on Delivery,48.54
+170,445,12/17/2023,711.3,Cancelled,PayPal,29.8
+171,25,5/3/2024,629.34,Pending,Bank Transfer,29.51
+172,869,4/6/2024,498.86,Cancelled,Bank Transfer,48.1
+173,106,6/23/2024,67.62,Delivered,Credit Card,35.44
+174,613,7/11/2024,784.83,Cancelled,Credit Card,34.16
+175,510,2/19/2024,950.34,Pending,PayPal,18.44
+176,282,4/22/2024,504.03,Cancelled,PayPal,37.23
+177,339,1/9/2024,332.41,Cancelled,Credit Card,33.53
+178,55,2/25/2024,313.02,Shipped,Credit Card,8.74
+179,137,1/27/2024,763.42,Delivered,Cash on Delivery,49.03
+180,258,4/4/2024,906.17,Delivered,Bank Transfer,13.14
+181,846,4/5/2024,346.59,Shipped,Credit Card,18.77
+182,94,4/7/2024,866.94,Shipped,Bank Transfer,32.58
+183,505,6/18/2024,294.8,Cancelled,Bank Transfer,31.12
+184,563,11/4/2024,580.36,Cancelled,Cash on Delivery,35.57
+185,703,9/1/2024,575.43,Cancelled,Credit Card,7.77
+186,788,6/21/2024,824.29,Delivered,Cash on Delivery,11.57
+187,32,5/29/2024,225.68,Delivered,Cash on Delivery,48.79
+188,11,5/6/2024,896.01,Cancelled,Bank Transfer,29.77
+189,653,3/29/2024,537.67,Pending,Bank Transfer,23.91
+190,92,6/22/2024,502.32,Pending,Cash on Delivery,47.66
+191,92,7/16/2024,112.73,Delivered,Cash on Delivery,28.59
+192,487,9/8/2024,972.6,Delivered,Bank Transfer,26.46
+193,267,7/28/2024,735.68,Delivered,Credit Card,34.9
+194,897,3/11/2024,727.84,Cancelled,Bank Transfer,16.19
+195,604,6/5/2024,594.57,Pending,Cash on Delivery,46.36
+196,570,12/23/2023,120.75,Pending,Credit Card,46.14
+197,900,1/2/2024,87.02,Pending,Bank Transfer,30.28
+198,444,3/30/2024,698.52,Delivered,Credit Card,37.09
+199,534,5/3/2024,146.74,Cancelled,PayPal,11.91
+200,325,5/23/2024,294.39,Delivered,Credit Card,14.82
+201,161,5/10/2024,775.26,Delivered,Credit Card,17.83
+202,787,11/12/2024,179.81,Shipped,Credit Card,36.37
+203,812,6/8/2024,691.08,Shipped,Credit Card,7.12
+204,19,3/17/2024,326.11,Delivered,Bank Transfer,14.11
+205,945,2/19/2024,911.88,Delivered,Credit Card,11.5
+206,820,9/29/2024,436.87,Delivered,Credit Card,10.52
+207,547,8/2/2024,482.52,Cancelled,Credit Card,15.19
+208,521,4/15/2024,792.87,Delivered,Bank Transfer,48.62
+209,118,6/17/2024,153.31,Shipped,Bank Transfer,22.65
+210,917,6/23/2024,242.8,Delivered,Bank Transfer,16.9
+211,422,8/9/2024,961.05,Cancelled,Cash on Delivery,28.25
+212,244,6/13/2024,102.2,Shipped,Cash on Delivery,20.36
+213,242,12/12/2023,604.02,Delivered,Cash on Delivery,23.16
+214,345,1/4/2024,709.45,Delivered,Bank Transfer,40.18
+215,520,2/2/2024,857.57,Pending,Credit Card,17.62
+216,723,7/24/2024,910.97,Delivered,Bank Transfer,19.13
+217,306,9/8/2024,530.62,Delivered,Cash on Delivery,29.72
+218,429,4/17/2024,649.52,Pending,PayPal,38.1
+219,192,9/19/2024,689.28,Cancelled,Bank Transfer,48.61
+220,585,9/21/2024,138.41,Delivered,Cash on Delivery,32.73
+221,460,11/8/2024,691.17,Cancelled,PayPal,10.07
+222,965,9/20/2024,175.32,Pending,PayPal,37.46
+223,195,3/13/2024,591.51,Delivered,Bank Transfer,38.72
+224,133,3/22/2024,716.22,Pending,PayPal,7.91
+225,183,3/3/2024,248.21,Cancelled,PayPal,41.99
+226,208,3/15/2024,110.65,Cancelled,Credit Card,17.22
+227,492,2/7/2024,427.17,Pending,Cash on Delivery,18.97
+228,851,4/17/2024,436.55,Cancelled,Cash on Delivery,35.69
+229,539,11/25/2023,410.11,Shipped,Cash on Delivery,45.21
+230,215,8/22/2024,88.13,Shipped,Bank Transfer,11.47
+231,542,3/19/2024,841.38,Shipped,Credit Card,42.76
+232,557,10/14/2024,624.77,Shipped,PayPal,36.75
+233,234,2/28/2024,792.28,Pending,Credit Card,36.38
+234,491,11/19/2023,699.36,Cancelled,Cash on Delivery,43.02
+235,684,1/19/2024,112.4,Shipped,Cash on Delivery,10.04
+236,101,4/11/2024,652.46,Pending,Cash on Delivery,8.82
+237,311,8/29/2024,870.42,Pending,Cash on Delivery,9
+238,59,4/16/2024,695.12,Cancelled,PayPal,18.85
+239,352,2/8/2024,506.08,Cancelled,Bank Transfer,18.62
+240,596,10/27/2024,714.08,Shipped,Bank Transfer,5.76
+241,307,12/26/2023,511.54,Cancelled,Cash on Delivery,8.54
+242,60,1/20/2024,114.07,Pending,Bank Transfer,25.24
+243,331,4/29/2024,675.42,Delivered,Credit Card,41.8
+244,946,7/17/2024,897.78,Cancelled,Cash on Delivery,27.82
+245,456,8/23/2024,321.27,Pending,PayPal,48.01
+246,948,6/29/2024,477.77,Shipped,Credit Card,17.6
+247,940,6/22/2024,90.7,Delivered,Cash on Delivery,47.67
+248,118,1/13/2024,622.78,Delivered,Credit Card,32.14
+249,868,1/9/2024,555.8,Pending,PayPal,43.18
+250,638,11/24/2023,423.14,Delivered,Bank Transfer,28.51
+251,160,7/30/2024,260.39,Shipped,PayPal,32.92
+252,839,10/28/2024,664.2,Pending,PayPal,45.22
+253,134,4/30/2024,821.98,Pending,Bank Transfer,12.47
+254,274,8/17/2024,522.45,Delivered,Cash on Delivery,44.41
+255,43,9/8/2024,63.94,Shipped,Credit Card,25.19
+256,118,9/16/2024,337.69,Cancelled,Credit Card,21.99
+257,166,10/20/2024,825.02,Pending,Bank Transfer,30.16
+258,352,11/17/2024,64.1,Delivered,Cash on Delivery,48.73
+259,877,12/17/2023,934.63,Delivered,PayPal,36.69
+260,2,6/2/2024,242.33,Delivered,Bank Transfer,35.17
+261,15,7/23/2024,607.38,Delivered,PayPal,17.26
+262,637,4/30/2024,56.09,Delivered,Bank Transfer,45.77
+263,973,9/24/2024,145.54,Shipped,PayPal,30.51
+264,982,1/22/2024,436.38,Delivered,Bank Transfer,23.88
+265,568,6/5/2024,709.23,Pending,Cash on Delivery,27.63
+266,150,4/14/2024,108.32,Pending,Credit Card,21.18
+267,994,12/25/2023,662.58,Cancelled,Cash on Delivery,23.5
+268,448,12/29/2023,622.02,Delivered,Cash on Delivery,25.43
+269,422,8/24/2024,494.47,Cancelled,PayPal,41.79
+270,692,2/3/2024,308.74,Delivered,Credit Card,7.1
+271,919,5/13/2024,114.64,Delivered,PayPal,22.71
+272,294,2/23/2024,113.51,Delivered,PayPal,17.11
+273,722,3/1/2024,994.79,Cancelled,Bank Transfer,48.6
+274,976,8/29/2024,341.02,Shipped,PayPal,46.6
+275,924,2/10/2024,391.12,Cancelled,Bank Transfer,9.53
+276,585,4/1/2024,408.53,Delivered,Credit Card,19.98
+277,250,6/19/2024,160.83,Delivered,Credit Card,41.24
+278,550,8/3/2024,331.18,Shipped,Bank Transfer,33.53
+279,852,6/1/2024,646.32,Pending,Cash on Delivery,27.35
+280,622,4/7/2024,904.44,Cancelled,Credit Card,13.29
+281,836,11/9/2024,741.65,Pending,Cash on Delivery,7.15
+282,294,1/5/2024,515.24,Pending,Credit Card,43.46
+283,620,6/12/2024,294.56,Pending,PayPal,18.38
+284,374,1/9/2024,184.34,Pending,Cash on Delivery,23.01
+285,378,3/12/2024,397.55,Shipped,Credit Card,21.25
+286,209,2/10/2024,198.73,Cancelled,Bank Transfer,24.63
+287,783,5/27/2024,956.61,Delivered,Credit Card,40.69
+288,536,8/11/2024,980.36,Cancelled,Bank Transfer,43.21
+289,500,5/30/2024,275.5,Cancelled,Credit Card,49.6
+290,677,6/27/2024,646.14,Cancelled,PayPal,23.54
+291,357,7/6/2024,469.34,Pending,Credit Card,31.07
+292,631,9/23/2024,532.72,Cancelled,Credit Card,16.78
+293,201,7/12/2024,807.1,Delivered,PayPal,9.59
+294,449,6/17/2024,429.74,Delivered,Bank Transfer,35.32
+295,525,4/29/2024,735.63,Cancelled,Cash on Delivery,25
+296,368,9/25/2024,776.01,Pending,Credit Card,11.13
+297,323,12/20/2023,735.84,Pending,Credit Card,17.23
+298,819,5/10/2024,809.7,Delivered,Bank Transfer,12.43
+299,226,1/19/2024,141.66,Pending,Credit Card,46.37
+300,537,9/12/2024,170.34,Pending,PayPal,46.8
+301,974,7/26/2024,947.35,Shipped,Cash on Delivery,25.58
+302,977,4/28/2024,607.31,Pending,PayPal,19.33
+303,103,11/29/2023,274.73,Cancelled,Credit Card,30.1
+304,954,8/22/2024,577.45,Delivered,Credit Card,23.93
+305,905,10/16/2024,655.46,Pending,Cash on Delivery,36.86
+306,440,4/29/2024,93.9,Shipped,Bank Transfer,19.03
+307,783,3/12/2024,407.01,Cancelled,Cash on Delivery,31.09
+308,890,2/28/2024,858.92,Pending,Bank Transfer,10.35
+309,916,9/29/2024,929.5,Delivered,Cash on Delivery,22.94
+310,473,4/1/2024,155.53,Delivered,Credit Card,30.74
+311,449,5/31/2024,334.28,Delivered,Bank Transfer,42.12
+312,674,7/10/2024,716.28,Pending,PayPal,6.52
+313,450,1/19/2024,709.41,Cancelled,PayPal,12.55
+314,772,4/24/2024,210.19,Pending,PayPal,9.06
+315,74,12/17/2023,810.47,Delivered,Cash on Delivery,40.6
+316,837,11/9/2024,447.03,Delivered,Credit Card,33.93
+317,175,4/30/2024,807.36,Pending,Cash on Delivery,32.41
+318,185,9/24/2024,783.6,Delivered,PayPal,21.94
+319,24,5/5/2024,790.64,Cancelled,PayPal,37.23
+320,640,1/3/2024,243.2,Cancelled,PayPal,18.7
+321,102,12/8/2023,785.82,Cancelled,Bank Transfer,16.98
+322,596,4/15/2024,198.13,Pending,Bank Transfer,23.2
+323,165,12/21/2023,467,Shipped,Cash on Delivery,34.68
+324,801,7/23/2024,575.83,Shipped,PayPal,6.6
+325,387,9/7/2024,918.58,Pending,PayPal,30.02
+326,624,12/19/2023,510.74,Pending,Cash on Delivery,40.69
+327,446,5/11/2024,603.14,Cancelled,Cash on Delivery,10.01
+328,259,5/14/2024,483.72,Delivered,PayPal,7.6
+329,692,8/16/2024,462.88,Pending,Bank Transfer,28.34
+330,980,10/16/2024,235.74,Cancelled,PayPal,13.86
+331,28,11/18/2023,708.63,Delivered,Credit Card,33.71
+332,649,11/4/2024,866.68,Pending,PayPal,36.28
+333,5,6/17/2024,73.16,Shipped,Bank Transfer,23.93
+334,20,12/21/2023,81.94,Cancelled,PayPal,43.93
+335,307,10/31/2024,537.32,Pending,Credit Card,23.16
+336,425,5/28/2024,343.39,Pending,PayPal,47.78
+337,836,4/15/2024,923.44,Cancelled,PayPal,47.68
+338,71,8/8/2024,841.67,Delivered,Bank Transfer,25.3
+339,734,5/2/2024,769.64,Pending,Bank Transfer,25.76
+340,12,8/12/2024,208.63,Pending,PayPal,36.1
+341,116,10/17/2024,285.96,Pending,Credit Card,39.57
+342,49,10/26/2024,444.57,Delivered,PayPal,12.08
+343,828,6/12/2024,981.88,Delivered,Credit Card,7.06
+344,811,10/24/2024,428.77,Shipped,Cash on Delivery,45.71
+345,927,2/23/2024,516.31,Delivered,Credit Card,37.45
+346,286,3/10/2024,878.17,Pending,PayPal,39.65
+347,966,10/8/2024,641.26,Delivered,PayPal,11.47
+348,593,6/19/2024,68.32,Delivered,Bank Transfer,43.81
+349,160,7/21/2024,661.56,Cancelled,PayPal,5.7
+350,834,8/23/2024,780.56,Cancelled,Cash on Delivery,49.8
+351,848,5/5/2024,357.2,Shipped,Bank Transfer,35.22
+352,528,3/20/2024,876.56,Pending,Cash on Delivery,5.73
+353,143,5/4/2024,617.54,Shipped,Bank Transfer,32.79
+354,780,2/13/2024,529.49,Shipped,Credit Card,15.32
+355,381,10/7/2024,853.25,Delivered,Cash on Delivery,10.46
+356,80,2/7/2024,710.22,Delivered,PayPal,7.68
+357,227,12/13/2023,235.84,Delivered,Cash on Delivery,25.86
+358,581,9/11/2024,125.03,Delivered,PayPal,24.45
+359,294,6/4/2024,336.06,Shipped,Bank Transfer,31.01
+360,225,3/9/2024,106.14,Delivered,Credit Card,5.79
+361,436,1/11/2024,244.7,Shipped,Cash on Delivery,13.21
+362,431,4/13/2024,706.88,Shipped,Cash on Delivery,7.59
+363,935,5/28/2024,484.65,Pending,Cash on Delivery,38.55
+364,546,8/28/2024,431.22,Pending,PayPal,20.25
+365,174,6/17/2024,436.5,Delivered,Cash on Delivery,48.01
+366,23,4/1/2024,204.11,Pending,Credit Card,21.49
+367,255,8/24/2024,649.05,Cancelled,Credit Card,10.32
+368,6,6/25/2024,177.12,Shipped,Cash on Delivery,30.8
+369,522,12/27/2023,856.17,Cancelled,Credit Card,41.41
+370,817,5/9/2024,195.84,Shipped,PayPal,6.56
+371,663,9/15/2024,938.76,Shipped,Cash on Delivery,6.48
+372,62,2/9/2024,444.22,Cancelled,Credit Card,36.98
+373,15,9/14/2024,974.94,Pending,Cash on Delivery,13.49
+374,915,5/8/2024,334.33,Pending,PayPal,7.87
+375,460,6/2/2024,654.84,Shipped,PayPal,23.67
+376,852,5/17/2024,280.15,Pending,Bank Transfer,31.94
+377,463,2/5/2024,663.11,Delivered,Cash on Delivery,47.36
+378,824,10/11/2024,636.99,Shipped,Bank Transfer,48.18
+379,674,3/7/2024,500.5,Shipped,Bank Transfer,39.78
+380,186,4/12/2024,817.8,Shipped,Bank Transfer,17.12
+381,522,5/16/2024,170.56,Pending,Bank Transfer,18.47
+382,188,11/19/2023,993.15,Pending,PayPal,11.33
+383,514,1/1/2024,619.64,Shipped,PayPal,5.1
+384,10,12/10/2023,221.26,Cancelled,Credit Card,33.94
+385,244,4/23/2024,331.5,Cancelled,Bank Transfer,32.31
+386,380,5/18/2024,985.01,Cancelled,Credit Card,41.75
+387,644,7/4/2024,378.42,Cancelled,Credit Card,48.38
+388,652,5/10/2024,860.02,Shipped,Credit Card,8.51
+389,520,10/27/2024,249.91,Pending,Credit Card,17.54
+390,532,11/16/2024,792.84,Pending,Bank Transfer,14.78
+391,168,12/30/2023,308.92,Shipped,Credit Card,34.76
+392,879,6/25/2024,886.22,Cancelled,Credit Card,33.31
+393,874,2/24/2024,67.81,Cancelled,Credit Card,14.74
+394,666,2/23/2024,597.16,Cancelled,Cash on Delivery,43.26
+395,100,4/13/2024,663.21,Delivered,Cash on Delivery,29.98
+396,689,8/8/2024,998.57,Pending,Cash on Delivery,42.82
+397,990,11/8/2024,124.85,Cancelled,Bank Transfer,43.98
+398,281,7/27/2024,891.61,Pending,Cash on Delivery,12.21
+399,549,10/5/2024,592.14,Delivered,Cash on Delivery,46.77
+400,883,12/3/2023,250.77,Cancelled,Credit Card,10.38
+401,899,10/3/2024,975.44,Cancelled,Cash on Delivery,27.56
+402,936,12/14/2023,787.2,Pending,Credit Card,38.31
+403,957,3/23/2024,678.82,Shipped,Credit Card,24.87
+404,498,12/24/2023,92.11,Delivered,Bank Transfer,22.39
+405,690,9/27/2024,806.39,Shipped,Credit Card,45.27
+406,310,8/20/2024,516.01,Cancelled,Bank Transfer,48.66
+407,351,6/26/2024,766.02,Shipped,Cash on Delivery,49.37
+408,335,10/28/2024,69.08,Shipped,Credit Card,37.01
+409,956,11/4/2024,280.97,Shipped,Cash on Delivery,6.89
+410,767,4/15/2024,696.59,Cancelled,Bank Transfer,7.67
+411,124,4/19/2024,244.83,Cancelled,Cash on Delivery,5.53
+412,809,12/21/2023,618.06,Delivered,Bank Transfer,45.9
+413,212,5/30/2024,641.81,Shipped,Credit Card,12.08
+414,48,7/25/2024,713.04,Cancelled,Cash on Delivery,9.34
+415,373,8/22/2024,791.87,Shipped,Cash on Delivery,5.05
+416,508,2/6/2024,178.9,Delivered,Credit Card,20.34
+417,624,1/23/2024,170.85,Delivered,Bank Transfer,17.47
+418,490,3/31/2024,317.67,Delivered,PayPal,28.68
+419,199,12/17/2023,972.08,Cancelled,PayPal,49.58
+420,925,7/30/2024,796.95,Cancelled,Bank Transfer,29.77
+421,771,10/21/2024,954.45,Delivered,Bank Transfer,38.41
+422,257,6/1/2024,474.78,Cancelled,Cash on Delivery,39.93
+423,95,5/20/2024,186.63,Pending,Bank Transfer,23.3
+424,311,10/20/2024,75.04,Cancelled,Credit Card,36.46
+425,534,8/14/2024,428.76,Pending,Bank Transfer,14.27
+426,155,2/22/2024,962.59,Cancelled,Bank Transfer,20.43
+427,405,11/6/2024,54.16,Pending,Bank Transfer,31.32
+428,122,9/15/2024,406.94,Pending,Credit Card,40.59
+429,495,12/19/2023,781.89,Pending,PayPal,25.9
+430,328,11/3/2024,514.67,Pending,Bank Transfer,7.13
+431,262,9/3/2024,609.93,Shipped,Cash on Delivery,14.88
+432,552,8/14/2024,53.25,Cancelled,PayPal,7.99
+433,952,10/8/2024,961.58,Pending,PayPal,13.25
+434,260,9/15/2024,984.83,Delivered,Cash on Delivery,36.28
+435,381,12/26/2023,361.47,Cancelled,Bank Transfer,8.26
+436,135,3/3/2024,227.11,Pending,Credit Card,7.26
+437,833,6/14/2024,574.68,Delivered,Cash on Delivery,19.98
+438,206,7/31/2024,253.72,Cancelled,Bank Transfer,15.28
+439,545,11/14/2024,919.31,Shipped,Cash on Delivery,46.85
+440,470,4/20/2024,462.78,Delivered,Credit Card,48.83
+441,939,7/14/2024,341.35,Shipped,Bank Transfer,10.51
+442,515,10/30/2024,996.81,Delivered,Bank Transfer,24.77
+443,899,11/27/2023,756.4,Cancelled,Credit Card,21.11
+444,423,4/22/2024,228.56,Delivered,Cash on Delivery,42.46
+445,750,6/22/2024,343.15,Cancelled,Cash on Delivery,32.19
+446,946,3/25/2024,653.69,Cancelled,Credit Card,6.92
+447,936,8/7/2024,576.99,Cancelled,PayPal,25.24
+448,568,11/9/2024,870.28,Pending,Bank Transfer,32.83
+449,575,10/9/2024,457.13,Shipped,Credit Card,18.93
+450,830,9/7/2024,683.14,Delivered,PayPal,11.14
+451,775,4/20/2024,763.6,Shipped,PayPal,26.93
+452,878,11/1/2024,593.33,Shipped,PayPal,29.33
+453,218,6/6/2024,845.87,Shipped,Credit Card,27.78
+454,331,1/22/2024,924.52,Delivered,Bank Transfer,32.54
+455,656,2/5/2024,103.16,Delivered,Credit Card,39.74
+456,235,9/10/2024,800.38,Shipped,Cash on Delivery,25.88
+457,262,5/5/2024,190.05,Delivered,Bank Transfer,36.19
+458,39,1/9/2024,875.82,Cancelled,PayPal,19.27
+459,675,9/19/2024,673.66,Pending,Cash on Delivery,47.49
+460,669,7/9/2024,965.37,Cancelled,Bank Transfer,35.56
+461,190,8/16/2024,53.3,Shipped,PayPal,38.91
+462,925,4/2/2024,524.59,Pending,Credit Card,10.47
+463,572,3/14/2024,701.9,Delivered,PayPal,8.59
+464,251,3/1/2024,400.41,Pending,Cash on Delivery,27.9
+465,247,10/31/2024,104.87,Cancelled,Bank Transfer,19.86
+466,562,9/2/2024,959.08,Pending,PayPal,23.3
+467,562,11/4/2024,719.32,Delivered,PayPal,21.07
+468,129,1/30/2024,691.39,Pending,PayPal,7.08
+469,743,3/22/2024,900.3,Shipped,Cash on Delivery,42.75
+470,962,10/15/2024,534.15,Pending,Bank Transfer,8.61
+471,131,1/28/2024,556.03,Pending,Credit Card,28.05
+472,989,1/28/2024,424.79,Pending,Bank Transfer,43.58
+473,831,10/2/2024,432.26,Cancelled,Credit Card,37.17
+474,609,1/22/2024,465.84,Pending,PayPal,16.37
+475,724,4/29/2024,290.38,Shipped,PayPal,39.36
+476,546,7/21/2024,373.35,Shipped,PayPal,44.91
+477,891,5/29/2024,974.32,Shipped,Cash on Delivery,10.6
+478,924,3/16/2024,199.98,Pending,Cash on Delivery,47.93
+479,369,12/25/2023,74.68,Cancelled,Bank Transfer,37.74
+480,272,2/29/2024,853.85,Shipped,Credit Card,42.33
+481,146,5/12/2024,617.5,Cancelled,Bank Transfer,25.62
+482,504,12/9/2023,791.77,Cancelled,Cash on Delivery,14.91
+483,129,12/6/2023,882.85,Shipped,Credit Card,23.3
+484,253,4/28/2024,871.64,Pending,Bank Transfer,43.52
+485,287,5/16/2024,615.07,Cancelled,PayPal,29.9
+486,222,7/11/2024,190.49,Shipped,Bank Transfer,23.9
+487,846,11/13/2024,324.61,Pending,PayPal,34.58
+488,712,12/3/2023,670.09,Pending,Cash on Delivery,34.59
+489,835,2/3/2024,518.47,Shipped,Credit Card,21.02
+490,794,5/6/2024,456.49,Delivered,Cash on Delivery,6.51
+491,910,6/14/2024,259.89,Shipped,Credit Card,46.59
+492,669,4/6/2024,331.07,Cancelled,Cash on Delivery,11.31
+493,671,9/6/2024,676.66,Pending,Credit Card,39.52
+494,300,12/20/2023,728.42,Delivered,Bank Transfer,21.77
+495,104,6/27/2024,243.82,Delivered,Credit Card,20.1
+496,331,3/31/2024,606.5,Shipped,PayPal,30.36
+497,864,11/27/2023,379.01,Shipped,PayPal,37.65
+498,823,11/30/2023,467.63,Shipped,Bank Transfer,39.95
+499,313,1/28/2024,959.45,Pending,PayPal,25.04
+500,632,9/12/2024,77.78,Shipped,Bank Transfer,6
+501,524,5/4/2024,545.88,Cancelled,Bank Transfer,5.17
+502,24,8/11/2024,351.18,Shipped,Cash on Delivery,16.51
+503,529,8/20/2024,699.54,Delivered,PayPal,26.6
+504,835,11/8/2024,551.44,Cancelled,Credit Card,23.37
+505,331,5/18/2024,493.36,Pending,Credit Card,29.61
+506,382,8/8/2024,142.15,Delivered,Bank Transfer,33.58
+507,968,10/15/2024,565.36,Pending,Bank Transfer,37.56
+508,660,4/11/2024,329.2,Shipped,Cash on Delivery,27.99
+509,633,1/14/2024,779.06,Pending,PayPal,25.69
+510,715,6/17/2024,940.63,Cancelled,Credit Card,9.82
+511,962,9/7/2024,577.63,Pending,Credit Card,32.16
+512,775,11/13/2024,228.81,Cancelled,Bank Transfer,15.65
+513,908,12/16/2023,186.12,Delivered,Credit Card,42.46
+514,344,9/3/2024,248.22,Cancelled,Credit Card,12.57
+515,292,4/3/2024,769.25,Shipped,Credit Card,31.03
+516,565,3/8/2024,669.09,Pending,Credit Card,12.47
+517,378,1/27/2024,231.48,Shipped,Credit Card,32.83
+518,246,3/22/2024,349.95,Delivered,Credit Card,9.58
+519,636,2/6/2024,690.32,Shipped,Credit Card,23.79
+520,427,6/26/2024,805.86,Delivered,PayPal,45.17
+521,977,2/27/2024,743.37,Cancelled,Bank Transfer,23.65
+522,506,6/28/2024,315.36,Cancelled,Credit Card,16.9
+523,540,3/11/2024,381.61,Cancelled,Credit Card,47.68
+524,508,5/23/2024,991.52,Shipped,Credit Card,49.8
+525,38,9/13/2024,678.31,Cancelled,Bank Transfer,7.82
+526,982,9/3/2024,808.12,Shipped,Bank Transfer,22.35
+527,669,4/11/2024,686.92,Cancelled,Bank Transfer,44.8
+528,530,1/30/2024,402.36,Shipped,PayPal,11.78
+529,196,1/12/2024,370.59,Pending,PayPal,5.18
+530,34,2/22/2024,277.28,Delivered,Credit Card,35.28
+531,782,12/19/2023,353.42,Pending,Credit Card,15.06
+532,687,8/20/2024,348.47,Shipped,Cash on Delivery,17.22
+533,242,7/28/2024,379.85,Cancelled,PayPal,46.56
+534,693,7/3/2024,880.76,Cancelled,Bank Transfer,23.95
+535,474,3/13/2024,484,Shipped,Credit Card,49.54
+536,961,3/6/2024,714.51,Shipped,Cash on Delivery,23.9
+537,758,3/9/2024,940.41,Pending,Cash on Delivery,10.59
+538,752,2/4/2024,636.53,Cancelled,PayPal,31.24
+539,468,12/12/2023,556.79,Pending,Credit Card,49.92
+540,318,11/14/2024,113.05,Pending,Bank Transfer,17.56
+541,332,1/12/2024,487.55,Shipped,Cash on Delivery,17.97
+542,826,10/2/2024,234.18,Cancelled,Cash on Delivery,20.13
+543,349,7/10/2024,784.82,Delivered,Cash on Delivery,17.42
+544,538,12/24/2023,621.98,Shipped,Credit Card,18.83
+545,178,3/3/2024,622.49,Cancelled,PayPal,32.05
+546,898,10/22/2024,815.1,Cancelled,Credit Card,16.76
+547,68,2/20/2024,547.77,Cancelled,Bank Transfer,20.22
+548,670,11/4/2024,923.76,Shipped,Cash on Delivery,47.65
+549,993,10/7/2024,379.67,Cancelled,Bank Transfer,5.4
+550,438,7/23/2024,96.29,Delivered,PayPal,35.22
+551,177,12/8/2023,113.79,Shipped,Credit Card,11.26
+552,802,12/4/2023,408.04,Cancelled,Bank Transfer,7.83
+553,658,2/7/2024,977.11,Pending,PayPal,49.32
+554,148,7/26/2024,646.96,Cancelled,Credit Card,13.86
+555,800,3/3/2024,396.23,Delivered,Bank Transfer,21.16
+556,517,9/12/2024,990.17,Delivered,PayPal,39.23
+557,829,1/29/2024,612.85,Shipped,Bank Transfer,47.08
+558,665,8/4/2024,509.89,Shipped,Bank Transfer,47.99
+559,400,5/26/2024,325.4,Delivered,Cash on Delivery,26.48
+560,289,5/7/2024,493.72,Delivered,Bank Transfer,13.91
+561,250,6/2/2024,212.09,Cancelled,Credit Card,36.88
+562,997,9/27/2024,524.73,Cancelled,PayPal,15.78
+563,126,7/18/2024,161.22,Pending,Bank Transfer,38.99
+564,753,1/27/2024,217.87,Delivered,Credit Card,39.72
+565,371,2/18/2024,550.8,Shipped,Bank Transfer,48.27
+566,625,4/8/2024,605.56,Cancelled,Credit Card,10.36
+567,220,3/16/2024,828.7,Delivered,Bank Transfer,41.72
+568,874,2/14/2024,893.55,Pending,PayPal,24.66
+569,478,11/16/2024,765.84,Cancelled,PayPal,37.32
+570,741,4/20/2024,976.99,Cancelled,Cash on Delivery,30.55
+571,45,4/12/2024,361.46,Pending,Bank Transfer,20.55
+572,307,7/23/2024,247.8,Pending,Bank Transfer,46.02
+573,21,7/5/2024,867.79,Shipped,Bank Transfer,48.8
+574,589,3/11/2024,282.63,Delivered,Bank Transfer,17.83
+575,92,12/17/2023,362.09,Pending,Credit Card,10.35
+576,273,2/16/2024,473.09,Shipped,PayPal,31.61
+577,786,1/6/2024,227.18,Cancelled,Cash on Delivery,41.18
+578,587,3/31/2024,834.71,Pending,Bank Transfer,47.9
+579,527,8/21/2024,912.71,Delivered,PayPal,43.04
+580,653,5/10/2024,152.11,Cancelled,Bank Transfer,23.54
+581,794,8/12/2024,862.98,Delivered,Bank Transfer,12.38
+582,953,4/2/2024,610.7,Delivered,Credit Card,39.26
+583,704,8/3/2024,132.03,Cancelled,Bank Transfer,29.95
+584,571,5/8/2024,961.63,Cancelled,Bank Transfer,43.37
+585,152,9/12/2024,709.76,Delivered,Cash on Delivery,44.34
+586,277,7/3/2024,193.61,Cancelled,Bank Transfer,9.76
+587,861,11/10/2024,635.34,Shipped,Cash on Delivery,19.21
+588,976,3/2/2024,566.8,Pending,Cash on Delivery,6.86
+589,740,12/22/2023,291.32,Pending,Credit Card,12.06
+590,361,4/21/2024,838.04,Shipped,Cash on Delivery,35.21
+591,339,5/6/2024,114.8,Shipped,Credit Card,18.7
+592,423,9/15/2024,436.86,Shipped,Credit Card,9.48
+593,910,7/17/2024,677.16,Shipped,PayPal,25.13
+594,877,5/30/2024,107.85,Pending,Cash on Delivery,24.88
+595,255,9/13/2024,729.55,Pending,Cash on Delivery,38.63
+596,776,7/8/2024,105.44,Pending,Cash on Delivery,44.13
+597,198,8/29/2024,454.36,Delivered,Credit Card,35.74
+598,756,5/20/2024,754.72,Cancelled,Bank Transfer,34.36
+599,530,8/25/2024,984.82,Delivered,Bank Transfer,28.25
+600,494,11/16/2024,314.49,Pending,Bank Transfer,9.59
+601,796,3/29/2024,462.69,Delivered,Cash on Delivery,24.88
+602,632,9/29/2024,627.89,Cancelled,Credit Card,28.88
+603,123,4/2/2024,706.33,Delivered,PayPal,13.83
+604,534,10/17/2024,879.36,Pending,PayPal,43.14
+605,431,10/5/2024,156.72,Shipped,Cash on Delivery,41.73
+606,188,7/26/2024,170.53,Cancelled,Bank Transfer,42.1
+607,980,3/2/2024,91,Pending,PayPal,7.28
+608,192,9/24/2024,757.08,Shipped,Credit Card,13.6
+609,656,2/8/2024,683.4,Shipped,Cash on Delivery,10.09
+610,343,12/18/2023,856.82,Cancelled,PayPal,49.5
+611,791,11/29/2023,654.28,Pending,Credit Card,34.99
+612,705,8/29/2024,846.43,Pending,Credit Card,34.24
+613,293,9/21/2024,705.06,Delivered,Credit Card,36.57
+614,108,5/9/2024,152.16,Pending,PayPal,9.09
+615,237,5/27/2024,993.28,Shipped,Bank Transfer,32.82
+616,977,7/5/2024,115.49,Shipped,Bank Transfer,23
+617,470,4/8/2024,764.76,Cancelled,Bank Transfer,5.84
+618,969,4/28/2024,916.09,Shipped,Bank Transfer,44.9
+619,465,12/9/2023,438.34,Cancelled,Cash on Delivery,34.36
+620,790,10/18/2024,549.6,Cancelled,Credit Card,5.21
+621,397,8/4/2024,502.71,Cancelled,Cash on Delivery,39.93
+622,779,7/27/2024,650.02,Delivered,Bank Transfer,35.77
+623,818,3/19/2024,191,Pending,PayPal,49.72
+624,561,10/26/2024,595.83,Pending,Credit Card,14.32
+625,714,8/5/2024,569.65,Shipped,Bank Transfer,30.52
+626,92,5/22/2024,363.02,Shipped,Bank Transfer,47.93
+627,692,12/4/2023,466.69,Delivered,Cash on Delivery,26.48
+628,591,9/22/2024,916.51,Shipped,Cash on Delivery,14.25
+629,668,8/23/2024,482.85,Pending,PayPal,16.36
+630,889,4/12/2024,512.31,Cancelled,Bank Transfer,12.78
+631,972,2/15/2024,89.94,Pending,Cash on Delivery,19.89
+632,199,11/4/2024,467.94,Delivered,PayPal,29.58
+633,724,2/7/2024,820.16,Delivered,Bank Transfer,37.21
+634,173,4/30/2024,970.52,Cancelled,PayPal,46.39
+635,267,8/4/2024,512.25,Pending,Bank Transfer,27
+636,486,9/10/2024,978.14,Delivered,Credit Card,38.2
+637,145,3/13/2024,718.34,Shipped,Cash on Delivery,18.7
+638,930,7/20/2024,581.18,Cancelled,Credit Card,28.28
+639,740,12/14/2023,578.7,Delivered,Bank Transfer,26.49
+640,976,9/22/2024,529.33,Cancelled,Credit Card,31.86
+641,861,9/15/2024,246.42,Cancelled,Bank Transfer,36.82
+642,954,7/20/2024,969.6,Cancelled,Credit Card,15.65
+643,722,10/12/2024,210.55,Cancelled,Bank Transfer,29.12
+644,512,3/22/2024,598.28,Shipped,PayPal,5.14
+645,412,1/21/2024,655.69,Delivered,Bank Transfer,8.88
+646,655,6/9/2024,862.47,Pending,Bank Transfer,15.37
+647,884,3/1/2024,96.38,Delivered,PayPal,37.27
+648,736,9/17/2024,955.6,Delivered,PayPal,45.03
+649,678,4/21/2024,78.63,Cancelled,Bank Transfer,6.01
+650,563,12/5/2023,898.82,Shipped,Bank Transfer,39.14
+651,92,12/23/2023,516.71,Cancelled,Cash on Delivery,41.01
+652,800,11/29/2023,676.87,Delivered,Cash on Delivery,38.5
+653,524,12/5/2023,673.01,Cancelled,Cash on Delivery,37.94
+654,430,10/25/2024,287.83,Delivered,PayPal,31.68
+655,453,11/19/2023,884.75,Shipped,Cash on Delivery,31.75
+656,776,8/29/2024,111.45,Shipped,PayPal,12.01
+657,2,6/16/2024,780.6,Cancelled,Credit Card,45.97
+658,588,4/26/2024,779.83,Cancelled,Cash on Delivery,22.33
+659,698,8/11/2024,524.71,Cancelled,Cash on Delivery,43.92
+660,754,6/19/2024,961.14,Cancelled,Cash on Delivery,14.51
+661,812,9/9/2024,428.23,Delivered,Bank Transfer,39.25
+662,836,5/30/2024,969.54,Cancelled,Cash on Delivery,24.08
+663,137,3/6/2024,242.04,Delivered,Bank Transfer,44.24
+664,44,6/2/2024,695.19,Delivered,PayPal,34.58
+665,248,3/29/2024,599.46,Shipped,Cash on Delivery,27.32
+666,558,7/10/2024,179.32,Delivered,Bank Transfer,32.67
+667,389,9/15/2024,956.79,Shipped,Credit Card,26.03
+668,168,11/13/2024,341.29,Pending,Credit Card,39.13
+669,801,1/22/2024,969.87,Cancelled,Credit Card,20.84
+670,926,12/6/2023,758.07,Delivered,Cash on Delivery,21.56
+671,649,12/9/2023,143.71,Shipped,Credit Card,12.72
+672,922,7/26/2024,954.42,Delivered,PayPal,49.95
+673,608,7/2/2024,656.76,Cancelled,PayPal,22.08
+674,472,3/21/2024,252.32,Cancelled,Cash on Delivery,41.23
+675,179,10/7/2024,180.37,Delivered,Bank Transfer,43.52
+676,724,6/24/2024,551.9,Cancelled,PayPal,39.25
+677,83,9/18/2024,190.7,Cancelled,PayPal,30.96
+678,16,10/3/2024,878,Pending,Bank Transfer,35.92
+679,645,1/10/2024,250.82,Cancelled,Cash on Delivery,7.05
+680,221,11/12/2024,244.9,Pending,Cash on Delivery,6.36
+681,51,11/29/2023,208.95,Cancelled,PayPal,10.17
+682,733,11/20/2023,328.84,Shipped,Credit Card,21.26
+683,982,2/22/2024,910.87,Cancelled,PayPal,49.38
+684,598,12/25/2023,218.21,Cancelled,Bank Transfer,25
+685,347,5/11/2024,358.99,Shipped,Cash on Delivery,20.28
+686,911,3/26/2024,478.9,Delivered,Bank Transfer,33.4
+687,949,6/12/2024,304.53,Shipped,Bank Transfer,11.52
+688,470,10/11/2024,298.13,Cancelled,Credit Card,39.03
+689,315,2/16/2024,962.21,Delivered,PayPal,32.8
+690,329,10/26/2024,457.93,Shipped,Credit Card,49.2
+691,418,11/5/2024,380.92,Delivered,Bank Transfer,13.44
+692,905,6/21/2024,915.12,Pending,Cash on Delivery,37.1
+693,57,9/11/2024,858.91,Cancelled,PayPal,24
+694,300,3/20/2024,958.33,Cancelled,Credit Card,40.16
+695,558,7/24/2024,894.17,Shipped,Credit Card,24.73
+696,70,3/18/2024,970.61,Pending,Cash on Delivery,47.21
+697,520,6/6/2024,749.53,Cancelled,PayPal,36.45
+698,953,10/20/2024,183.86,Cancelled,Cash on Delivery,20.69
+699,516,8/8/2024,531.37,Shipped,Cash on Delivery,22.24
+700,559,12/25/2023,773.06,Delivered,Credit Card,9.3
+701,37,2/23/2024,506.12,Pending,PayPal,40.47
+702,193,1/21/2024,354.42,Cancelled,Cash on Delivery,19.23
+703,975,2/27/2024,987.67,Delivered,Credit Card,11
+704,47,8/8/2024,893.12,Cancelled,Cash on Delivery,35.72
+705,331,6/19/2024,52.14,Pending,Credit Card,29.84
+706,279,9/13/2024,825.83,Shipped,PayPal,40.06
+707,144,1/3/2024,798.31,Delivered,PayPal,29.34
+708,555,5/26/2024,271.77,Shipped,Bank Transfer,25.94
+709,360,4/19/2024,57.05,Pending,Cash on Delivery,20.25
+710,916,7/24/2024,204.61,Shipped,Bank Transfer,31.19
+711,149,7/12/2024,811.75,Delivered,Cash on Delivery,49.33
+712,819,1/27/2024,518.29,Shipped,Cash on Delivery,15.45
+713,720,5/4/2024,451.8,Cancelled,Cash on Delivery,39.31
+714,831,2/4/2024,721.55,Pending,Cash on Delivery,46.13
+715,111,4/4/2024,682.88,Delivered,PayPal,30.76
+716,646,6/25/2024,404.29,Pending,Cash on Delivery,22.81
+717,111,1/19/2024,713.84,Shipped,Bank Transfer,35.47
+718,918,2/22/2024,797.35,Delivered,Credit Card,13.19
+719,80,2/25/2024,346.11,Delivered,Bank Transfer,35.41
+720,721,12/24/2023,617.62,Cancelled,Credit Card,37.52
+721,926,11/19/2023,845.67,Pending,PayPal,28.28
+722,829,6/15/2024,799.06,Pending,Bank Transfer,39.59
+723,39,9/7/2024,968.26,Cancelled,PayPal,48.81
+724,655,7/26/2024,961.26,Shipped,Credit Card,14.84
+725,897,2/21/2024,481.29,Delivered,Cash on Delivery,14.16
+726,135,3/24/2024,906.49,Cancelled,PayPal,25.49
+727,635,9/13/2024,54.5,Delivered,Cash on Delivery,9.12
+728,932,11/2/2024,343.77,Delivered,Credit Card,28.06
+729,69,12/23/2023,794.65,Cancelled,Credit Card,25.53
+730,74,11/30/2023,132.88,Cancelled,Cash on Delivery,25.05
+731,891,11/28/2023,695.24,Shipped,Credit Card,48.51
+732,322,12/31/2023,411.29,Delivered,Bank Transfer,37.27
+733,383,4/30/2024,990.83,Pending,Bank Transfer,36.88
+734,92,2/26/2024,879.11,Cancelled,Bank Transfer,41.89
+735,680,1/31/2024,572.84,Cancelled,Bank Transfer,34.43
+736,41,3/22/2024,906.45,Delivered,Bank Transfer,21.79
+737,975,5/10/2024,604.88,Delivered,Bank Transfer,25.23
+738,533,10/27/2024,68.31,Shipped,Credit Card,49.86
+739,640,11/28/2023,915.53,Delivered,Bank Transfer,10.05
+740,701,10/9/2024,629.39,Pending,Credit Card,23.2
+741,326,7/30/2024,626.1,Cancelled,PayPal,39.67
+742,790,4/26/2024,183.87,Shipped,PayPal,7.36
+743,466,12/6/2023,683.64,Delivered,Bank Transfer,21.05
+744,258,6/19/2024,736.63,Pending,Cash on Delivery,12.04
+745,99,5/30/2024,223.26,Pending,Bank Transfer,8.81
+746,764,12/1/2023,960.59,Pending,PayPal,6.8
+747,900,4/6/2024,860.96,Shipped,PayPal,5.36
+748,7,9/19/2024,691.79,Pending,Cash on Delivery,21.64
+749,463,2/20/2024,674.38,Shipped,Cash on Delivery,17.67
+750,84,2/5/2024,575.18,Delivered,Credit Card,22.78
+751,866,2/26/2024,696.92,Shipped,Bank Transfer,47.2
+752,87,5/6/2024,331.64,Delivered,Cash on Delivery,47.18
+753,156,11/1/2024,787.51,Cancelled,Cash on Delivery,35.84
+754,181,1/8/2024,796.86,Shipped,Cash on Delivery,16.47
+755,635,12/12/2023,137.19,Delivered,PayPal,18.23
+756,456,3/3/2024,742.98,Cancelled,Cash on Delivery,42.88
+757,160,1/28/2024,747.87,Cancelled,Credit Card,24.29
+758,514,1/17/2024,864.35,Cancelled,PayPal,18.43
+759,79,2/27/2024,657.01,Delivered,Credit Card,43.58
+760,317,12/18/2023,448.49,Cancelled,Credit Card,33.61
+761,338,4/21/2024,688.46,Cancelled,Credit Card,48.95
+762,160,11/5/2024,741.63,Pending,PayPal,22.72
+763,279,4/22/2024,539.48,Cancelled,Credit Card,23.16
+764,870,8/16/2024,401.26,Cancelled,PayPal,19.72
+765,754,5/30/2024,567.87,Delivered,PayPal,20.33
+766,274,3/30/2024,831.26,Pending,PayPal,15.05
+767,527,12/14/2023,598.65,Shipped,PayPal,10.67
+768,290,12/27/2023,449.73,Shipped,Bank Transfer,14.96
+769,708,10/9/2024,535.07,Pending,Credit Card,7.07
+770,89,10/13/2024,56.52,Pending,Cash on Delivery,12.24
+771,795,6/26/2024,596.58,Delivered,Cash on Delivery,34.29
+772,331,4/11/2024,799.46,Cancelled,Credit Card,44.79
+773,370,11/3/2024,319.24,Delivered,PayPal,26.71
+774,634,5/18/2024,936.18,Shipped,Bank Transfer,22.12
+775,820,1/25/2024,182.23,Cancelled,Credit Card,13.52
+776,451,11/23/2023,548.04,Cancelled,Cash on Delivery,10.72
+777,65,10/30/2024,888.62,Pending,Cash on Delivery,29.76
+778,638,3/28/2024,498.38,Shipped,PayPal,14.29
+779,433,2/11/2024,189.19,Delivered,Cash on Delivery,12.85
+780,795,6/15/2024,456.7,Delivered,Bank Transfer,39.52
+781,94,9/21/2024,738.84,Pending,Cash on Delivery,20.56
+782,483,3/24/2024,151.68,Pending,Cash on Delivery,22.91
+783,164,5/1/2024,459.82,Shipped,Bank Transfer,22.99
+784,20,5/11/2024,322.09,Cancelled,PayPal,13.15
+785,266,2/6/2024,277.82,Pending,Bank Transfer,35.42
+786,595,11/13/2024,956.94,Pending,PayPal,42.22
+787,833,11/21/2023,734.54,Pending,Bank Transfer,45.35
+788,576,7/11/2024,338.11,Pending,Credit Card,7.14
+789,905,5/25/2024,61.71,Delivered,PayPal,45.76
+790,532,2/21/2024,892.52,Pending,Cash on Delivery,42.85
+791,742,4/3/2024,564.73,Delivered,Cash on Delivery,14.12
+792,897,10/27/2024,968.49,Pending,Bank Transfer,35.78
+793,286,12/18/2023,988,Shipped,Cash on Delivery,8.24
+794,718,5/3/2024,518.37,Pending,Credit Card,49.71
+795,805,7/9/2024,215.89,Shipped,Bank Transfer,9.19
+796,72,8/16/2024,957.42,Pending,Cash on Delivery,8.24
+797,4,8/26/2024,636.63,Delivered,Bank Transfer,46.13
+798,460,8/24/2024,925.69,Pending,Bank Transfer,22.92
+799,594,8/23/2024,88.53,Cancelled,PayPal,26.04
+800,715,8/2/2024,589.53,Shipped,PayPal,31.87
+801,505,8/29/2024,400.77,Delivered,PayPal,15.2
+802,12,1/5/2024,525.29,Shipped,Credit Card,20.8
+803,18,4/19/2024,180.94,Pending,Bank Transfer,13.08
+804,745,1/16/2024,294.16,Shipped,Cash on Delivery,25.25
+805,566,12/2/2023,129.05,Pending,Bank Transfer,40.28
+806,919,8/20/2024,797.09,Delivered,Cash on Delivery,44.72
+807,583,8/3/2024,337.68,Delivered,PayPal,42.01
+808,541,4/15/2024,610.92,Cancelled,Credit Card,17.66
+809,844,5/8/2024,866.57,Pending,Cash on Delivery,36.45
+810,757,6/21/2024,484.97,Shipped,Bank Transfer,8.14
+811,880,3/6/2024,750.84,Cancelled,PayPal,18.87
+812,315,8/8/2024,276.42,Cancelled,Credit Card,39.15
+813,421,4/20/2024,123.6,Delivered,Bank Transfer,48.68
+814,464,7/14/2024,194.08,Cancelled,Cash on Delivery,35.07
+815,352,7/2/2024,101.7,Delivered,PayPal,15.68
+816,649,10/29/2024,665.44,Pending,Credit Card,47
+817,214,4/20/2024,149.31,Cancelled,Bank Transfer,9.27
+818,402,10/12/2024,883.67,Delivered,PayPal,14.88
+819,554,5/25/2024,362.54,Shipped,PayPal,24.52
+820,83,8/4/2024,146.61,Delivered,Bank Transfer,22.97
+821,314,4/21/2024,758.54,Shipped,Bank Transfer,33.62
+822,994,9/10/2024,668.77,Shipped,Bank Transfer,12.01
+823,545,3/16/2024,773.31,Delivered,Cash on Delivery,43.42
+824,4,1/26/2024,637.67,Delivered,Credit Card,19.88
+825,928,4/7/2024,929.42,Delivered,Cash on Delivery,26.76
+826,427,3/31/2024,260.7,Delivered,Cash on Delivery,31.13
+827,604,3/27/2024,454.56,Delivered,Cash on Delivery,13.83
+828,701,1/20/2024,457.59,Pending,Bank Transfer,13.87
+829,176,8/3/2024,810.69,Cancelled,PayPal,44.25
+830,524,7/4/2024,788.02,Shipped,Bank Transfer,33.48
+831,916,7/1/2024,404.65,Delivered,PayPal,14.18
+832,91,11/8/2024,241.69,Delivered,PayPal,24.33
+833,295,7/10/2024,163.91,Cancelled,Credit Card,44.24
+834,570,9/8/2024,632.51,Shipped,Cash on Delivery,41.56
+835,838,5/9/2024,437.93,Shipped,PayPal,48.51
+836,912,6/14/2024,473.19,Pending,Cash on Delivery,45.6
+837,810,12/29/2023,184.71,Delivered,Credit Card,44.11
+838,172,9/27/2024,425.2,Shipped,PayPal,45.22
+839,661,5/11/2024,850.12,Shipped,Bank Transfer,44.95
+840,9,1/17/2024,172.71,Shipped,Credit Card,48.37
+841,292,1/20/2024,78.97,Delivered,PayPal,22.55
+842,559,2/26/2024,154.87,Delivered,Bank Transfer,5.7
+843,878,1/6/2024,624.5,Delivered,Cash on Delivery,43.15
+844,452,4/25/2024,813.95,Pending,Cash on Delivery,37.77
+845,9,5/24/2024,533.35,Shipped,Credit Card,29.81
+846,91,9/21/2024,646.26,Shipped,Credit Card,23.96
+847,474,1/20/2024,306.62,Pending,PayPal,27.95
+848,977,6/6/2024,306.45,Delivered,PayPal,12.21
+849,493,3/3/2024,99.86,Delivered,PayPal,27.13
+850,539,5/7/2024,529.57,Pending,Cash on Delivery,40.23
+851,657,6/17/2024,221.93,Cancelled,Bank Transfer,47.9
+852,676,8/13/2024,570.07,Pending,PayPal,37.96
+853,640,8/3/2024,989.87,Cancelled,PayPal,7.93
+854,651,1/16/2024,171.52,Shipped,PayPal,11.24
+855,439,6/12/2024,706.77,Pending,PayPal,41.13
+856,297,3/18/2024,454.73,Pending,Bank Transfer,8.57
+857,33,7/15/2024,976.03,Pending,Credit Card,19.76
+858,949,7/29/2024,87.4,Shipped,PayPal,32.49
+859,500,10/16/2024,518.9,Delivered,PayPal,15.37
+860,934,3/11/2024,763.6,Cancelled,PayPal,19.3
+861,132,3/1/2024,603.98,Shipped,PayPal,26.05
+862,879,5/29/2024,908.97,Pending,PayPal,12.4
+863,521,8/7/2024,70.33,Shipped,Cash on Delivery,33.77
+864,996,1/23/2024,636.43,Pending,PayPal,7.14
+865,282,6/9/2024,916.69,Cancelled,Cash on Delivery,31.55
+866,911,3/27/2024,598.22,Shipped,Cash on Delivery,38.01
+867,55,10/22/2024,619.14,Shipped,Bank Transfer,46.87
+868,489,2/15/2024,971.86,Shipped,Bank Transfer,45.83
+869,762,2/2/2024,595.48,Delivered,Credit Card,26.39
+870,644,6/2/2024,592.62,Shipped,PayPal,27.08
+871,348,2/21/2024,279.92,Pending,Credit Card,46.78
+872,951,9/27/2024,547.4,Delivered,Credit Card,35.62
+873,243,10/20/2024,825.76,Delivered,Credit Card,48.6
+874,304,6/1/2024,474.99,Delivered,Bank Transfer,42.94
+875,270,7/13/2024,228.91,Delivered,Credit Card,43.43
+876,515,9/28/2024,238.18,Pending,Bank Transfer,41.7
+877,122,9/30/2024,950.16,Delivered,Cash on Delivery,32.83
+878,31,2/26/2024,956.44,Delivered,PayPal,22.16
+879,966,2/20/2024,888.56,Shipped,Bank Transfer,31.11
+880,79,7/13/2024,411.33,Pending,PayPal,48.41
+881,268,10/27/2024,503.81,Cancelled,PayPal,33.29
+882,133,11/28/2023,510.98,Shipped,Cash on Delivery,14.32
+883,14,6/29/2024,474.33,Cancelled,Cash on Delivery,10.13
+884,85,12/10/2023,82.48,Pending,PayPal,43.27
+885,204,6/17/2024,665.2,Pending,Bank Transfer,36.69
+886,112,8/7/2024,314.22,Delivered,Cash on Delivery,45.71
+887,51,9/25/2024,190.31,Delivered,Cash on Delivery,28.32
+888,344,3/14/2024,508.66,Pending,Cash on Delivery,26.39
+889,428,10/31/2024,411.44,Shipped,Bank Transfer,22.39
+890,527,2/21/2024,463.65,Shipped,Cash on Delivery,45.65
+891,115,12/29/2023,552.97,Shipped,PayPal,32.86
+892,716,6/29/2024,872.53,Cancelled,Bank Transfer,38.47
+893,484,7/24/2024,412.69,Pending,PayPal,47.78
+894,85,9/19/2024,918.69,Shipped,Bank Transfer,23.18
+895,767,5/4/2024,336.15,Pending,Bank Transfer,6
+896,320,10/1/2024,837.1,Shipped,Credit Card,22.62
+897,501,3/14/2024,524.99,Shipped,Cash on Delivery,41.25
+898,700,8/13/2024,249.63,Pending,Cash on Delivery,39.68
+899,408,12/26/2023,588.84,Cancelled,Credit Card,21.64
+900,651,5/11/2024,338.35,Pending,PayPal,15.74
+901,839,12/20/2023,903.11,Shipped,PayPal,27.5
+902,747,7/5/2024,996.77,Shipped,PayPal,41.31
+903,772,12/4/2023,304.8,Shipped,Credit Card,5.51
+904,153,1/28/2024,223.15,Cancelled,Credit Card,17.81
+905,993,3/17/2024,910.03,Shipped,Cash on Delivery,31.21
+906,134,5/9/2024,908.45,Cancelled,Credit Card,37.98
+907,152,9/23/2024,937.63,Cancelled,Credit Card,18.74
+908,464,9/27/2024,867.01,Shipped,Credit Card,35.51
+909,768,7/16/2024,941.84,Delivered,Credit Card,14.49
+910,208,11/24/2023,291.18,Delivered,Credit Card,16.82
+911,165,9/22/2024,312.29,Cancelled,Credit Card,21.12
+912,919,8/9/2024,410.31,Pending,Cash on Delivery,14.89
+913,325,8/5/2024,182.09,Shipped,Bank Transfer,30.35
+914,583,4/22/2024,625.76,Pending,Bank Transfer,31.3
+915,371,6/13/2024,488.6,Cancelled,Cash on Delivery,47.16
+916,951,6/19/2024,201.91,Delivered,Credit Card,19.64
+917,952,7/9/2024,564.08,Delivered,Credit Card,47.4
+918,403,5/15/2024,362.41,Pending,PayPal,42.66
+919,226,6/3/2024,452.72,Cancelled,Bank Transfer,49.68
+920,433,4/30/2024,698.18,Pending,Credit Card,33.46
+921,513,2/4/2024,299.83,Cancelled,Credit Card,15.4
+922,192,9/20/2024,754.82,Shipped,Cash on Delivery,45.47
+923,639,5/28/2024,682.87,Pending,Credit Card,24.09
+924,74,12/17/2023,802.17,Cancelled,PayPal,21.89
+925,615,8/12/2024,688.15,Shipped,Cash on Delivery,12.49
+926,116,3/11/2024,320.05,Delivered,Bank Transfer,38.46
+927,946,4/19/2024,989.96,Cancelled,PayPal,6.21
+928,823,7/14/2024,501.97,Delivered,Cash on Delivery,45.85
+929,681,7/14/2024,328.76,Delivered,Bank Transfer,48.07
+930,871,9/16/2024,963.53,Pending,Cash on Delivery,47.45
+931,809,8/8/2024,344.99,Delivered,Bank Transfer,7
+932,63,8/26/2024,755.7,Delivered,Cash on Delivery,5.69
+933,409,8/13/2024,644.75,Pending,Cash on Delivery,10.54
+934,302,5/18/2024,260.39,Shipped,Credit Card,16.48
+935,588,8/9/2024,837.5,Delivered,PayPal,33.45
+936,305,2/6/2024,115.29,Cancelled,Bank Transfer,47.52
+937,650,2/5/2024,59.01,Shipped,PayPal,41.58
+938,294,7/4/2024,791.64,Cancelled,Cash on Delivery,29.53
+939,772,8/14/2024,732.03,Pending,Bank Transfer,46.95
+940,56,2/8/2024,354.17,Delivered,Bank Transfer,37.84
+941,642,9/1/2024,811.71,Pending,Credit Card,13.81
+942,347,8/18/2024,670.53,Cancelled,Cash on Delivery,20.9
+943,190,1/2/2024,248.21,Delivered,Credit Card,37.63
+944,785,9/12/2024,419,Cancelled,Cash on Delivery,14.72
+945,243,8/3/2024,576.79,Shipped,Bank Transfer,25.57
+946,584,2/26/2024,141.71,Cancelled,Bank Transfer,15.05
+947,365,8/20/2024,853.65,Shipped,Cash on Delivery,8.12
+948,348,11/24/2023,997.57,Delivered,Cash on Delivery,23.33
+949,715,10/12/2024,708.35,Delivered,Bank Transfer,14.24
+950,284,12/10/2023,510.56,Shipped,Cash on Delivery,24.1
+951,878,5/12/2024,935.83,Pending,Credit Card,44.14
+952,418,2/27/2024,701.77,Cancelled,Cash on Delivery,44.91
+953,86,8/5/2024,612.68,Shipped,Cash on Delivery,31.27
+954,660,1/21/2024,461.61,Delivered,Credit Card,14.87
+955,343,10/15/2024,994.32,Delivered,Bank Transfer,35.5
+956,935,2/24/2024,350.83,Cancelled,Credit Card,24.98
+957,848,1/15/2024,546.36,Pending,Bank Transfer,23.3
+958,177,4/30/2024,867.4,Cancelled,Cash on Delivery,14.02
+959,273,10/14/2024,394.63,Pending,Cash on Delivery,30.82
+960,320,2/9/2024,386.93,Delivered,Cash on Delivery,9.06
+961,796,7/2/2024,413.15,Shipped,Credit Card,35.86
+962,385,4/7/2024,439.4,Shipped,Bank Transfer,10.97
+963,709,6/9/2024,568.54,Pending,Bank Transfer,31.86
+964,856,9/4/2024,277.16,Shipped,Credit Card,46.85
+965,661,8/25/2024,587.39,Delivered,Cash on Delivery,19.67
+966,87,4/6/2024,149.21,Shipped,PayPal,38.97
+967,138,5/29/2024,568.07,Delivered,PayPal,17.62
+968,533,2/28/2024,681.88,Delivered,Credit Card,10.07
+969,695,12/27/2023,305.43,Delivered,PayPal,16.25
+970,343,7/12/2024,846.05,Shipped,Cash on Delivery,16.74
+971,111,1/31/2024,869.88,Delivered,Bank Transfer,21.77
+972,218,11/15/2024,257.7,Delivered,Bank Transfer,37.28
+973,265,2/7/2024,943.69,Shipped,PayPal,21.36
+974,920,6/14/2024,87.74,Delivered,Bank Transfer,45.3
+975,465,2/24/2024,290.3,Shipped,PayPal,42.78
+976,125,9/24/2024,912.97,Delivered,Bank Transfer,35.44
+977,957,10/31/2024,591.24,Pending,Credit Card,41.41
+978,975,8/31/2024,200.07,Delivered,Credit Card,34.65
+979,996,6/26/2024,887.06,Shipped,Bank Transfer,12.46
+980,924,11/17/2024,283.69,Pending,PayPal,21.35
+981,311,4/21/2024,860.21,Pending,PayPal,16.07
+982,73,10/13/2024,611.4,Delivered,Bank Transfer,37.95
+983,870,1/18/2024,700.57,Shipped,Bank Transfer,32.4
+984,476,8/11/2024,328.5,Cancelled,PayPal,29.26
+985,925,5/27/2024,91.22,Cancelled,Bank Transfer,29.84
+986,99,8/16/2024,391.66,Pending,Bank Transfer,28.2
+987,820,9/10/2024,360.42,Pending,PayPal,26.48
+988,595,1/10/2024,464.07,Cancelled,PayPal,27.55
+989,912,11/2/2024,945.17,Pending,Cash on Delivery,29.82
+990,916,11/25/2023,375.07,Delivered,Credit Card,8.71
+991,859,4/9/2024,631.76,Pending,PayPal,10.89
+992,881,4/10/2024,691.08,Pending,Bank Transfer,44.26
+993,605,2/21/2024,608.94,Cancelled,Bank Transfer,34.44
+994,115,9/1/2024,382.01,Delivered,Bank Transfer,6
+995,55,12/18/2023,772.58,Delivered,Cash on Delivery,22.34
+996,609,7/24/2024,320.92,Delivered,PayPal,48.79
+997,604,5/19/2024,556.53,Cancelled,Cash on Delivery,22.23
+998,329,5/25/2024,222.4,Shipped,Cash on Delivery,12.76
+999,901,5/16/2024,209.33,Cancelled,PayPal,20.15
+1000,620,3/24/2024,595.49,Delivered,Cash on Delivery,47.04
