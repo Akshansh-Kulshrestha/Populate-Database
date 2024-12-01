@@ -15,7 +15,7 @@ o	OrderDetails: Linked to orders and products, detailing quantities, discounts, 
 
 •	Tools Used:
 
-o	Faker library: For generating realistic data.
+o	Faker library: For generating realistic data.\n
 o	SQLite: As the database system for storing and managing data.
 o	Python (sqlite3 module): For database interactions.
 
